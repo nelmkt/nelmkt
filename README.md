@@ -12,7 +12,7 @@ Computing & IT student at King Abdulaziz University (FCIT, Wa'ed Distinctive Exc
 I work where machine learning, remote sensing and sustainability meet: measuring what a green intervention actually does, and being explicit about what the data cannot show. My research so far covers urban greening and heat in desalination-dependent cities, and low-cost smart waste management. I aim to continue into graduate research and a Ph.D.
 
 - **Now:** Wahaj, a remote sensing and ML framework for urban greening–energy trade-offs
-- **Leading:** the Technical Committee of the Wa'ed Students Community at KAU
+- **Leading:** the Technical Committee of the Waed Students Community at KAU
 - **Interests:** applied ML, spatial validation, reproducible research, green technology, IoT
 
 ## Research and projects
