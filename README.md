@@ -54,11 +54,12 @@ A cost-effective, solar-powered IoT smart bin, taken from scientific research on
 
 | Area | Tools |
 | --- | --- |
-| Languages | Python, Rust, JavaScript, HTML, CSS |
+| Languages | Python, Rust, Ruby, TypeScript, JavaScript |
 | Working knowledge | C++, C# |
 | Machine learning and data | XGBoost, scikit-learn, pandas, NumPy, spatial cross-validation |
 | Remote sensing | Google Earth Engine, Landsat 8 Collection 2 |
-| Web | Next.js |
+| Front end | HTML, CSS, JavaScript, TypeScript, Next.js |
+| Back end | Python, Ruby, Rust |
 | Hardware | IoT prototyping, skeleton prototyping |
 
 ## Community
