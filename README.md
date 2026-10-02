@@ -5,6 +5,8 @@ Computer Science student at King Abdulaziz University (FCIT, Waed Distinctive Ex
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nelmkt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelmkt/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9887--0280-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9887-0280)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Nelly%20F.%20Almaktoum-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=MAgd-b0AAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Nelly--Almaktoum-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Nelly-Almaktoum)
 [![Email](https://img.shields.io/badge/Email-nalmaktoum0001%40stu.kau.edu.sa-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nalmaktoum0001@stu.kau.edu.sa)
 
 ## About
