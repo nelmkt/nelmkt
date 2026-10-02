@@ -1,7 +1,7 @@
 # Nelly Almaktoum · نيللي المكتوم
 
 **Undergraduate researcher building AI/ML and IoT systems for environmental problems.**<br>
-Computer Science student at King Abdulaziz University (FCIT, Waed Distinctive Excellence track) · Jeddah, Saudi Arabia
+Computing & IT student at King Abdulaziz University (FCIT, Wa'ed Distinctive Excellence track) · Jeddah, Saudi Arabia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nelmkt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelmkt/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9887--0280-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9887-0280)
@@ -12,7 +12,7 @@ Computer Science student at King Abdulaziz University (FCIT, Waed Distinctive Ex
 I work where machine learning, remote sensing and sustainability meet: measuring what a green intervention actually does, and being explicit about what the data cannot show. My research so far covers urban greening and heat in desalination-dependent cities, and low-cost smart waste management. I aim to continue into graduate research and a Ph.D.
 
 - **Now:** Wahaj, a remote sensing and ML framework for urban greening–energy trade-offs
-- **Leading:** the Technical Committee of the Waed Students Community at KAU
+- **Leading:** the Technical Committee of the Wa'ed Students Community at KAU
 - **Interests:** applied ML, spatial validation, reproducible research, green technology, IoT
 
 ## Research and projects
@@ -28,14 +28,16 @@ A reproducible Python and Google Earth Engine framework for evaluating urban gre
 
 `Python` `XGBoost` `Google Earth Engine` `Landsat` `Spatial statistics`
 
-### Aykah · آيكة
+### [Aykah · آيكة](https://github.com/nelmkt/Smart-Bin-Aykah)
 
-A cost-effective smart waste management system built on green technologies, taken from scientific research on a Sustainable Development Goal problem through to a working prototype and a business concept.
+A cost-effective, solar-powered IoT smart bin, taken from scientific research on a Sustainable Development Goal problem through to a working prototype and a business concept.
 
+- Raspberry Pi with ultrasonic fill sensing, LCD interface, LED status indicators and air filtration
+- Community survey of 222 participants on waste disposal behaviour and acceptance of smart waste technology
 - Young Researchers Award (Modern Technologies) at UNCCD COP16
 - Featured in the [Saudi Gazette](https://saudigazette.com.sa/article/664214/saudi-arabia/how-curiosity-led-a-saudi-teenager-to-develop-a-un-award-winning-smart-waste-management-solution)
 
-`IoT` `Embedded hardware` `Rapid prototyping`
+`IoT` `Raspberry Pi` `Solar power` `Rapid prototyping`
 
 ## Recognition
 
