@@ -1,6 +1,6 @@
 # Nelly Almaktoum · نيللي المكتوم
 
-**Undergraduate researcher emerging technology to contribute in real-world impact.**<br>
+**Undergraduate researcher merging technology with real-life problems to contribute in real-world impact.**<br>
 Computer Science student at King Abdulaziz University (FCIT, Waed Distinctive Excellence track) · Jeddah, Saudi Arabia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nelmkt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelmkt/)
