@@ -1,7 +1,7 @@
 # Nelly Almaktoum · نيللي المكتوم
 
 **Undergraduate researcher building AI/ML and IoT systems for environmental problems.**<br>
-Computing & IT student at King Abdulaziz University (FCIT, Wa'ed Distinctive Excellence track) · Jeddah, Saudi Arabia
+Computer Science student at King Abdulaziz University (FCIT, Waed Distinctive Excellence track) · Jeddah, Saudi Arabia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nelmkt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelmkt/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9887--0280-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9887-0280)
@@ -12,7 +12,7 @@ Computing & IT student at King Abdulaziz University (FCIT, Wa'ed Distinctive Exc
 I work where machine learning, remote sensing and sustainability meet: measuring what a green intervention actually does, and being explicit about what the data cannot show. My research so far covers urban greening and heat in desalination-dependent cities, and low-cost smart waste management. I aim to continue into graduate research and a Ph.D.
 
 - **Now:** Wahaj, a remote sensing and ML framework for urban greening–energy trade-offs
-- **Leading:** the Technical Committee of the Wa'ed Students Community at KAU
+- **Leading:** the Technical Committee of the Waed Students Community at KAU
 - **Interests:** applied ML, spatial validation, reproducible research, green technology, IoT
 
 ## Research and projects
@@ -62,7 +62,7 @@ A cost-effective, solar-powered IoT smart bin, taken from scientific research on
 
 ## Community
 
-- **Technical Committee Lead**, Wa'ed Students Community, King Abdulaziz University
+- **Technical Committee Lead**, Waed Students Community, King Abdulaziz University
 - **Layout & Design Specialist**, Engineering Day 2027 Planning Department
 - **Mawhiba Alumna**, national programme for gifted students (classes 2022–2025)
 
