@@ -13,7 +13,7 @@ I work where machine learning, remote sensing and sustainability meet: measuring
 
 - **Now:** Wahaj, a remote sensing and ML framework for urban greening–energy trade-offs
 - **Leading:** the Technical Committee of the Waed Students Community at KAU
-- **Interests:** applied ML, full-stack devlopment, reproducible research, green technology, IoT
+- **Interests:** applied ML, full-stack development, reproducible research, green technology, IoT
 
 ## Research and projects
 
