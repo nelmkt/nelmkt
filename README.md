@@ -1,7 +1,7 @@
 # Nelly Almaktoum · نيللي المكتوم
 
 **Undergraduate researcher building AI/ML and IoT systems for environmental problems.**<br>
-Computing & IT student at King Abdulaziz University (FCIT, Wa'ed Distinctive Excellence track) · Jeddah, Saudi Arabia
+Computer Science student at King Abdulaziz University (FCIT, Waed Distinctive Excellence track) · Jeddah, Saudi Arabia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nelmkt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelmkt/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9887--0280-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9887-0280)
