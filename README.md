@@ -59,7 +59,7 @@ A cost-effective, solar-powered IoT smart bin, taken from scientific research on
 | Machine learning and data | XGBoost, scikit-learn, pandas, NumPy, spatial cross-validation |
 | Remote sensing | Google Earth Engine, Landsat 8 Collection 2 |
 | Web | Next.js |
-| Hardware | IoT prototyping |
+| Hardware | IoT prototyping, skeleton prototyping |
 
 ## Community
 
