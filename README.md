@@ -2,7 +2,7 @@
 
 # Nelly Almaktoum · نيللي المكتوم
 
-**Undergraduate researcher merging technology with real-life problems to contribute in real-world impact.**
+**Undergraduate researcher merging technology with complex problems to contribute in real-world impact.**
 
 Computer Science student at King Abdulaziz University (FCIT, Waed Distinctive Excellence track) · Jeddah, Saudi Arabia
 
