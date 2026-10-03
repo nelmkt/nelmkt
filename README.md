@@ -33,7 +33,7 @@ I work where machine learning, remote sensing and sustainability meet: measuring
 
 <a href="https://github.com/nelmkt/Wahaj-Framework"><img align="right" width="360" src="https://raw.githubusercontent.com/nelmkt/Wahaj-Framework/v11-framework-ml/figures_png/fig3_model_test.png" alt="Wahaj model test figure: predicted against observed land surface temperature, and model-predicted against measured cooling"></a>
 
-A reproducible Python and Google Earth Engine framework for evaluating urban greening–energy trade-offs in desalination-dependent cities, with Jeddah as the case study.
+A reproducible ML Python and Google Earth Engine framework for evaluating urban greening–energy trade-offs in desalination-dependent cities, with Jeddah as the case study.
 
 - XGBoost land surface temperature model on Landsat 8 data, scored with spatial cross-validation (R² 0.795 on 19,650 cells)
 - Matched-contrast benchmark and counterfactual gates that test whether the model's predicted greening effects hold up, and report where they do not
