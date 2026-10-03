@@ -140,7 +140,7 @@ A cost-effective, solar-powered IoT smart bin, taken from scientific research on
 | --- | --- |
 | **Technical Committee Lead** | Waed Students Community, King Abdulaziz University |
 | **Member, Tech Department** | IEEE SB, 2027 |
-| **CME Member** | Google Developer Group (GDG), 2026 |
+| **CM Experience Member** | Google Developer Group (GDG), 2026 |
 | **Project Coordinator, Talk X** | Engineering Day 2027 |
 | **Layout & Design Specialist** | Engineering Day 2027 Planning Department |
 | **Coordinator** | Annual Waed Workshop 2027 |
