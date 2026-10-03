@@ -150,6 +150,6 @@ A cost-effective, solar-powered IoT smart bin, taken from scientific research on
 
 ## Get in touch
 
-Open to research collaboration, especially in applied ML for climate and sustainability. The fastest route is [LinkedIn](https://www.linkedin.com/in/nelmkt/) or [email](mailto:nalmaktoum0001@stu.kau.edu.sa). You can also find me on [X](https://x.com/nelmkt).
+Open to research collaboration, The fastest route is [LinkedIn](https://www.linkedin.com/in/nelmkt/) or [email](mailto:nalmaktoum0001@stu.kau.edu.sa). You can also find me on [X](https://x.com/nelmkt).
 
 Languages: Arabic and English.
