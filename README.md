@@ -31,15 +31,18 @@ I work where machine learning, remote sensing and sustainability meet: measuring
 
 ### [Wahaj · وهاج](https://github.com/nelmkt/Wahaj-Framework)
 
-<a href="https://github.com/nelmkt/Wahaj-Framework"><img align="right" width="360" src="https://raw.githubusercontent.com/nelmkt/Wahaj-Framework/v11-framework-ml/figures_png/fig3_model_test.png" alt="Wahaj model test figure: predicted against observed land surface temperature, and model-predicted against measured cooling"></a>
+<a href="https://github.com/nelmkt/Wahaj-Framework"><img align="right" width="360" src="https://raw.githubusercontent.com/nelmkt/Wahaj-Framework/v11-framework-ml/figures_r1/fig_r1_dose_contrasts.png" alt="Wahaj: measured land surface temperature change for each number of greened pixels, relative to matched never-vegetated controls"></a>
 
 A reproducible ML Python and Google Earth Engine framework for evaluating urban greening–energy trade-offs in desalination-dependent cities, with Jeddah as the case study.
 
-- XGBoost land surface temperature model on Landsat 8 data, scored with spatial cross-validation (R² 0.795 on 19,650 cells)
-- Matched-contrast benchmark and counterfactual gates that test whether the model's predicted greening effects hold up, and report where they do not
-- Normalized Environmental Gain Index (NEGI) with its assumptions stated, plus an illustrative water–energy ledger
-- Released with code, saved exports, figures, tables, a reproduction guide and citation metadata
+- XGBoost land surface temperature model on Landsat 8 data, scored with spatial cross-validation (R² 0.795 on 19,650 cells) and benchmarked against random forest, gradient boosting and linear regression
+- Matched-contrast benchmark of measured cooling where vegetation was established: −1.18 °C per greened pixel outside the built-up area, checked against an emissivity re-retrieval, alternative NDVI thresholds and a simulation of the sensor's thermal footprint
+- Counterfactual gates that test whether the model's predicted greening effects hold up, and report where they do not
+- Normalized Environmental Gain Index (NEGI) with its assumptions stated, plus a water–energy ledger: each degree of measured cooling carries about 2.9–5.3 MWh per year of desalination energy under central assumptions
+- Archived on Zenodo with code, Earth Engine exports, figures, tables, a reproduction guide and citation metadata
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23168529.svg)](https://doi.org/10.5281/zenodo.23168529)
+[![Release](https://img.shields.io/github/v/release/nelmkt/Wahaj-Framework?style=flat-square)](https://github.com/nelmkt/Wahaj-Framework/releases/latest)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white)
