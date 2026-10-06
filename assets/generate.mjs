@@ -150,7 +150,7 @@ const SPRITE_COLORS = {
   ${shadowed(name, W / 2, 98, 50, mono)}
   ${pixelArabic(arabic, W / 2, 122, 14, 3)}
   ${grid(SPRITE, 64, HZ + 22, 4, SPRITE_COLORS)}
-  <text x="${W / 2}" y="${H - 34}" font-size="13" ${mono} fill="#fff" text-anchor="middle" letter-spacing="2">RESEARCHER · INNOVATOR · ML ENGINEERING · GREEN TECH</text>
+  <text x="${W / 2}" y="${H - 34}" font-size="13" ${mono} fill="#fff" text-anchor="middle" letter-spacing="2">RESEARCHER · INNOVATOR · ML ENGINEER · GREEN TECH</text>
   <rect y="${H - 8}" width="${W}" height="8" fill="url(#rainbow)"/>
 </svg>`,
     2,
