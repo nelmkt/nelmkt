@@ -169,6 +169,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 
 <p>
   <img src="https://img.shields.io/badge/Git-ff4f9a?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-ff4f9a?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 **Hardware**
