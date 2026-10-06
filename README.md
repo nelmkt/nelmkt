@@ -11,7 +11,7 @@
   <a href="https://nelmkt.com"><img src="https://img.shields.io/badge/Portfolio-nelmkt.com-ff4f9a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2a0a20" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/nelmkt/"><img src="https://img.shields.io/badge/LinkedIn-nelmkt-ff8a3d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2a0a20" alt="LinkedIn"></a>
   <a href="https://x.com/nelmkt"><img src="https://img.shields.io/badge/X-@nelmkt-f2c12e?style=for-the-badge&logo=x&logoColor=white&labelColor=2a0a20" alt="X"></a>
-  <a href="mailto:nalmaktoum0001@stu.kau.edu.sa"><img src="https://img.shields.io/badge/Email-KAU-2fbf71?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2a0a20" alt="Email"></a>
+  <a href="mailto:scifinel@gmail.com"><img src="https://img.shields.io/badge/Email-scifinel%40gmail.com-2fbf71?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2a0a20" alt="Email"></a>
 </p>
 
 <p align="center">
@@ -192,7 +192,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 
 ## Get in touch
 
-I'm open to research collaboration. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/nelmkt/) or [email](mailto:nalmaktoum0001@stu.kau.edu.sa), and you can also find me on [X](https://x.com/nelmkt). Or press start at [nelmkt.com](https://nelmkt.com).
+I'm open to research collaboration. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/nelmkt/) or [email](mailto:scifinel@gmail.com), and you can also find me on [X](https://x.com/nelmkt). Or press start at [nelmkt.com](https://nelmkt.com).
 
 I speak Arabic and English.
 
