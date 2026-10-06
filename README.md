@@ -22,7 +22,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
-## <img src="assets/heart.svg" width="21" height="18" alt=""> About me
+## About me
 
 I work where machine learning, remote sensing and sustainability meet: measuring what a green intervention actually does, and being honest about what the data cannot show. So far my research has covered urban greening and heat in desalination-dependent cities, and low-cost smart waste management. I plan to continue into graduate research and a Ph.D. Away from the keyboard, I design and paint.
 
@@ -32,7 +32,7 @@ I work where machine learning, remote sensing and sustainability meet: measuring
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
-## <img src="assets/heart.svg" width="21" height="18" alt=""> Research and projects
+## Research and projects
 
 ### [Wahaj · وهاج](https://github.com/nelmkt/Wahaj-Framework)
 
@@ -81,7 +81,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
-## <img src="assets/heart.svg" width="21" height="18" alt=""> Recognition
+## Recognition
 
 | Year | Recognition | Awarded by |
 | :---: | --- | --- |
@@ -96,7 +96,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
-## <img src="assets/heart.svg" width="21" height="18" alt=""> Education
+## Education
 
 | School | Programme | Years |
 | --- | --- | :---: |
@@ -105,7 +105,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
-## <img src="assets/heart.svg" width="21" height="18" alt=""> Technical skills
+## Technical skills
 
 **Languages**
 
@@ -173,7 +173,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
-## <img src="assets/heart.svg" width="21" height="18" alt=""> Community
+## Community
 
 | Role | Where |
 | --- | --- |
@@ -190,10 +190,10 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
-## <img src="assets/heart.svg" width="21" height="18" alt=""> Get in touch
+## Get in touch
 
 I'm open to research collaboration. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/nelmkt/) or [email](mailto:nalmaktoum0001@stu.kau.edu.sa), and you can also find me on [X](https://x.com/nelmkt). Or press start at [nelmkt.com](https://nelmkt.com).
 
 I speak Arabic and English.
 
-<p align="center"><img src="assets/heart.svg" width="21" height="18" alt=""> <i>stay curious</i> <img src="assets/heart.svg" width="21" height="18" alt=""></p>
+<p align="center"><i>stay curious</i></p>

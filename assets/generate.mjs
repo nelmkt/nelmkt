@@ -8,7 +8,6 @@ const here = dirname(fileURLToPath(import.meta.url));
 const out = (name, svg) => writeFileSync(join(here, name), svg.trim() + "\n");
 
 // --- shared pixel helpers -------------------------------------------------
-const HEART = [".XX.XX.", "XXXXXXX", "XXXXXXX", ".XXXXX.", "..XXX..", "...X..."];
 const grid = (rows, x0, y0, s, colors) =>
   rows
     .flatMap((row, y) =>
@@ -17,8 +16,6 @@ const grid = (rows, x0, y0, s, colors) =>
       ),
     )
     .join("");
-const heart = (x, y, s, fill = "#ff3d8b") =>
-  grid(HEART, x, y, s, { X: fill }) + `<rect x="${x + s}" y="${y + s}" width="${s}" height="${s}" fill="#fff" opacity=".75"/>`;
 
 // The runner sprite from the portfolio (components/sprite.ts), standing pose.
 const SPRITE = [
@@ -108,24 +105,15 @@ const SPRITE_COLORS = {
   ${shadowed(name, W / 2, 104, 64, mono, 'letter-spacing="2"')}
   ${shadowed(arabic, W / 2, 168, 46, kufi, 'direction="rtl"')}
   ${grid(SPRITE, 150, HZ + 22, 4, SPRITE_COLORS)}
-  ${heart(56, 30, 4)}${heart(1112, 30, 4)}
   <text x="${W / 2}" y="${H - 34}" font-size="18" ${mono} fill="#fff" text-anchor="middle" letter-spacing="3">RESEARCHER · INNOVATOR · ML ENGINEERING · GREEN TECH</text>
   <rect y="${H - 8}" width="${W}" height="8" fill="url(#rainbow)"/>
 </svg>`,
   );
 }
 
-// --- section heart ---------------------------------------------------------
-out(
-  "heart.svg",
-  `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7 6" width="21" height="18" shape-rendering="crispEdges">${heart(0, 0, 1)}</svg>`,
-);
-
 // --- divider ---------------------------------------------------------------
 {
   const W = 900;
-  let hearts = "";
-  for (let i = 0; i < 3; i++) hearts += heart(W / 2 - 34 + i * 24, 0, 3, i === 1 ? "#ff3d8b" : "#c9327a");
   out(
     "divider.svg",
     `
@@ -134,11 +122,10 @@ out(
     <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#ff3d8b" stop-opacity="0"/><stop offset="1" stop-color="#ff3d8b"/></linearGradient>
     <linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#ff3d8b"/><stop offset="1" stop-color="#ff3d8b" stop-opacity="0"/></linearGradient>
   </defs>
-  <rect x="0" y="8" width="${W / 2 - 50}" height="2" fill="url(#l)"/>
-  <rect x="${W / 2 + 50}" y="8" width="${W / 2 - 50}" height="2" fill="url(#r)"/>
-  ${hearts}
+  <rect x="0" y="8" width="${W / 2}" height="2" fill="url(#l)"/>
+  <rect x="${W / 2}" y="8" width="${W / 2}" height="2" fill="url(#r)"/>
 </svg>`,
   );
 }
 
-console.log("wrote banner.svg, heart.svg, divider.svg");
+console.log("wrote banner.svg, divider.svg");
