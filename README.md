@@ -1,57 +1,60 @@
-<div align="center">
+<p align="center">
+  <a href="https://nelmkt.com"><img src="assets/banner.svg" width="100%" alt="Nelly Almaktoum · نيللي المكتوم: researcher, innovator, ML engineering and green tech"></a>
+</p>
 
-# Nelly Almaktoum · نيللي المكتوم
+<p align="center">
+  <b>Undergraduate researcher merging technology with complex problems to contribute in real-world impact.</b><br>
+  Computer Science at King Abdulaziz University · FCIT · Waed Distinctive Excellence track · Jeddah, Saudi Arabia
+</p>
 
-**Undergraduate researcher merging technology with complex problems to contribute in real-world impact.**
+<p align="center">
+  <a href="https://nelmkt.com"><img src="https://img.shields.io/badge/Portfolio-nelmkt.com-ff3d8b?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2a0a20" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/nelmkt/"><img src="https://img.shields.io/badge/LinkedIn-nelmkt-ff3d8b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2a0a20" alt="LinkedIn"></a>
+  <a href="https://x.com/nelmkt"><img src="https://img.shields.io/badge/X-@nelmkt-ff3d8b?style=for-the-badge&logo=x&logoColor=white&labelColor=2a0a20" alt="X"></a>
+  <a href="mailto:nalmaktoum0001@stu.kau.edu.sa"><img src="https://img.shields.io/badge/Email-KAU-ff3d8b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2a0a20" alt="Email"></a>
+</p>
 
-Computer Science student at King Abdulaziz University (FCIT, Waed Distinctive Excellence track) · Jeddah, Saudi Arabia
+<p align="center">
+  <a href="https://orcid.org/0009-0007-9887-0280"><img src="https://img.shields.io/badge/ORCID-0009--0007--9887--0280-ff85b8?style=flat-square&logo=orcid&logoColor=white&labelColor=2a0a20" alt="ORCID"></a>
+  <a href="https://scholar.google.com/citations?user=MAgd-b0AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Nelly%20F.%20Almaktoum-ff85b8?style=flat-square&logo=googlescholar&logoColor=white&labelColor=2a0a20" alt="Google Scholar"></a>
+  <a href="https://www.researchgate.net/profile/Nelly-Almaktoum"><img src="https://img.shields.io/badge/ResearchGate-Nelly--Almaktoum-ff85b8?style=flat-square&logo=researchgate&logoColor=white&labelColor=2a0a20" alt="ResearchGate"></a>
+</p>
 
-ML engineering · remote sensing · green tech
+<p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nelmkt.com-FF3D8B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nelmkt.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nelmkt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelmkt/)
-[![X](https://img.shields.io/badge/X-@nelmkt-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nelmkt)
-[![Email](https://img.shields.io/badge/Email-KAU-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nalmaktoum0001@stu.kau.edu.sa)
+## <img src="assets/heart.svg" width="21" height="18" alt=""> About me
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9887--0280-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9887-0280)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Nelly%20F.%20Almaktoum-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=MAgd-b0AAAAJ)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Nelly--Almaktoum-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Nelly-Almaktoum)
+I work where machine learning, remote sensing and sustainability meet: measuring what a green intervention actually does, and being honest about what the data cannot show. So far my research has covered urban greening and heat in desalination-dependent cities, and low-cost smart waste management. I plan to continue into graduate research and a Ph.D. Away from the keyboard, I design and paint.
 
-</div>
+- **Leading** the Technical Committee of the Waed Students Community at KAU
+- **Interested in** ML engineering, artificial intelligence, applied ML, full-stack development, reproducible research, green technology and IoT
+- **Playable portfolio** at [nelmkt.com](https://nelmkt.com), a retro arcade version of this page
 
----
+<p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
-## About
-
-I work where machine learning, remote sensing and sustainability meet: measuring what a green intervention actually does, and being explicit about what the data cannot show. My research so far covers urban greening and heat in desalination-dependent cities, and low-cost smart waste management. I aim to continue into graduate research and a Ph.D, and I also design and paint on the side.
-
-- **Leading:** the Technical Committee of the Waed Students Community at KAU
-- **Interests:** ML engineering, artificial intelligence, applied ML, full-stack development, reproducible research, green technology, IoT
-- **Portfolio:** a retro, playable version of this page lives at [nelmkt.com](https://nelmkt.com)
-
----
-
-## Research and projects
+## <img src="assets/heart.svg" width="21" height="18" alt=""> Research and projects
 
 ### [Wahaj · وهاج](https://github.com/nelmkt/Wahaj-Framework)
 
 <a href="https://github.com/nelmkt/Wahaj-Framework"><img align="right" width="360" src="https://raw.githubusercontent.com/nelmkt/Wahaj-Framework/v11-framework-ml/figures_r1/fig_r1_dose_contrasts.png" alt="Wahaj: measured land surface temperature change for each number of greened pixels, relative to matched never-vegetated controls"></a>
 
-A reproducible ML Python and Google Earth Engine framework for evaluating urban greening–energy trade-offs in desalination-dependent cities, with Jeddah as the case study.
+A reproducible machine learning framework, in Python and Google Earth Engine, for weighing the cooling benefits of urban greening against its energy costs in desalination-dependent cities. Jeddah is the case study.
 
-- XGBoost land surface temperature model on Landsat 8 data, scored with spatial cross-validation (R² 0.795 on 19,650 cells) and benchmarked against random forest, gradient boosting and linear regression
-- Matched-contrast benchmark of measured cooling where vegetation was established: −1.18 °C per greened pixel outside the built-up area, checked against an emissivity re-retrieval, alternative NDVI thresholds and a simulation of the sensor's thermal footprint
-- Counterfactual gates that test whether the model's predicted greening effects hold up, and report where they do not
-- Normalized Environmental Gain Index (NEGI) with its assumptions stated, plus a water–energy ledger: each degree of measured cooling carries about 2.9–5.3 MWh per year of desalination energy under central assumptions
-- Archived on Zenodo with code, Earth Engine exports, figures, tables, a reproduction guide and citation metadata
+- **Model:** XGBoost land surface temperature model on Landsat 8, scored with spatial cross-validation (R² 0.795 on 19,650 cells) and benchmarked against random forest, gradient boosting and linear regression
+- **Measured cooling:** a matched-contrast benchmark finds −1.18 °C per greened pixel outside the built-up area, checked against an emissivity re-retrieval, alternative NDVI thresholds and a simulation of the sensor's thermal footprint
+- **Honest predictions:** counterfactual gates test whether the model's predicted greening effects hold up, and report where they do not
+- **Trade-offs:** the Normalized Environmental Gain Index (NEGI), with its assumptions stated, plus a water–energy ledger: each degree of measured cooling carries about 2.9–5.3 MWh per year of desalination energy under central assumptions
+- **Reproducible:** archived on Zenodo with code, Earth Engine exports, figures, tables, a reproduction guide and citation metadata
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23168529.svg)](https://doi.org/10.5281/zenodo.23168529)
-[![Release](https://img.shields.io/github/v/release/nelmkt/Wahaj-Framework?style=flat-square)](https://github.com/nelmkt/Wahaj-Framework/releases/latest)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white)
-![Landsat](https://img.shields.io/badge/Landsat%208-0B3D91?style=flat-square)
-![Spatial statistics](https://img.shields.io/badge/Spatial%20statistics-555555?style=flat-square)
+<p>
+  <a href="https://doi.org/10.5281/zenodo.23168529"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23168529-ff3d8b?style=flat-square&labelColor=2a0a20" alt="DOI"></a>
+  <a href="https://github.com/nelmkt/Wahaj-Framework/releases/latest"><img src="https://img.shields.io/github/v/release/nelmkt/Wahaj-Framework?style=flat-square&color=ff3d8b&labelColor=2a0a20" alt="Latest release"></a>
+  <img src="https://img.shields.io/badge/Python-ff5fa2?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/XGBoost-ff5fa2?style=flat-square" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-ff5fa2?style=flat-square&logo=googleearthengine&logoColor=white" alt="Google Earth Engine">
+  <img src="https://img.shields.io/badge/Landsat%208-ff5fa2?style=flat-square" alt="Landsat 8">
+  <img src="https://img.shields.io/badge/Spatial%20statistics-ff5fa2?style=flat-square" alt="Spatial statistics">
+</p>
 
 <br clear="right">
 
@@ -59,114 +62,125 @@ A reproducible ML Python and Google Earth Engine framework for evaluating urban 
 
 <a href="https://github.com/nelmkt/Smart-Bin-Aykah"><img align="right" width="220" src="https://raw.githubusercontent.com/nelmkt/Smart-Bin-Aykah/main/images/prototype.jpg" alt="The Aykah smart bin prototype"></a>
 
-A patented, cost-effective, solar-powered IoT smart bin, taken from scientific research on a Sustainable Development Goal problem through to a working prototype and a business concept.
+A patented, cost-effective, solar-powered IoT smart bin, taken from scientific research on a Sustainable Development Goal problem all the way to a working prototype and a business concept.
 
-- Raspberry Pi with ultrasonic fill sensing, LCD interface, LED status indicators and air filtration
-- Community survey of 222 participants on waste disposal behaviour and acceptance of smart waste technology
-- Protected by a patent
-- Young Researchers Award (Modern Technologies) at UNCCD COP16
-- Featured in the [Saudi Gazette](https://saudigazette.com.sa/article/664214/saudi-arabia/how-curiosity-led-a-saudi-teenager-to-develop-a-un-award-winning-smart-waste-management-solution)
+- **Hardware:** Raspberry Pi with ultrasonic fill sensing, an LCD interface, LED status indicators and air filtration
+- **Research:** a community survey of 222 participants on waste disposal habits and acceptance of smart waste technology
+- **Patent:** the system is protected by a patent
+- **Recognition:** Young Researchers Award (Modern Technologies) at UNCCD COP16, and featured in the [Saudi Gazette](https://saudigazette.com.sa/article/664214/saudi-arabia/how-curiosity-led-a-saudi-teenager-to-develop-a-un-award-winning-smart-waste-management-solution)
 
-![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Solar power](https://img.shields.io/badge/Solar%20power-F5A623?style=flat-square)
-![Rapid prototyping](https://img.shields.io/badge/Rapid%20prototyping-555555?style=flat-square)
-![Patented](https://img.shields.io/badge/Patented-8A2BE2?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Patented-c2306f?style=flat-square" alt="Patented">
+  <img src="https://img.shields.io/badge/IoT-c2306f?style=flat-square" alt="IoT">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-c2306f?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/Solar%20power-c2306f?style=flat-square" alt="Solar power">
+  <img src="https://img.shields.io/badge/Rapid%20prototyping-c2306f?style=flat-square" alt="Rapid prototyping">
+</p>
 
 <br clear="right">
 
----
+<p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
-## Recognition
+## <img src="assets/heart.svg" width="21" height="18" alt=""> Recognition
 
 | Year | Recognition | Awarded by |
 | :---: | --- | --- |
-| — | **Patent** for Aykah, the solar-powered IoT smart waste management system | Inventor: Nelly Almaktoum |
+| — | **Patent** for Aykah, a solar-powered IoT smart waste management system | Inventor: Nelly Almaktoum |
 | 2026 | Certificate of Appreciation for distinguished participation in local and international competitions | King Abdulaziz University |
 | 2026 | Academic Excellence Award 2025–2026, for a GPA of 4.5 or higher across two consecutive semesters | King Abdulaziz University |
 | 2025 | IEEE Ideation Competition, 22nd International Learning and Technology Conference: presenter and team lead of five, with a top-ranked paper at the Human Machine Fusion exhibition | IEEE |
-| 2024 | **Young Researchers Award, Modern Technologies.** Youngest participant of 209 researchers and professors from 36 countries | United Nations Convention to Combat Desertification (UNCCD), COP16 |
+| 2024 | **Young Researchers Award, Modern Technologies.** Youngest participant among 209 researchers and professors from 36 countries | United Nations Convention to Combat Desertification (UNCCD), COP16 |
 | 2022 | National Mathematics Olympiad, final stage, representing the Western Region | Ministry of Education, Saudi Arabia |
 
-### Competitions and events
+**Competitions and events:** Consulting Championship 2025 (Aramco) · Hackathon Al Hareeq (Ministry of Environment, Water and Agriculture, 2025) · The 2nd Scientific Forum (King Abdulaziz University, 2025)
 
-- Consulting Championship 2025, Aramco
-- Hackathon Al Hareeq, Ministry of Environment, Water and Agriculture (2025)
-- The 2nd Scientific Forum, King Abdulaziz University (2025)
+<p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
----
+## <img src="assets/heart.svg" width="21" height="18" alt=""> Education
 
-## Education
+| School | Programme | Years |
+| --- | --- | :---: |
+| **King Abdulaziz University** | BS Computer Science, FCIT · Waed Distinctive Excellence track for gifted students | 2025–2030 |
+| **Dar Al Fikr Schools** | American High School Diploma · graduation project: Aykah | 2022–2025 |
 
-| | |
-| --- | --- |
-| **King Abdulaziz University** · BS Computer Science, FCIT · 2025–2030 | Waed: Distinctive Excellence track for gifted students |
-| **Dar Al Fikr Schools** · American High School Diploma · 2022–2025 | Graduation project: Aykah |
+<p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
----
-
-## Technical skills
+## <img src="assets/heart.svg" width="21" height="18" alt=""> Technical skills
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Python-ff3d8b?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Rust-ff3d8b?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Ruby-ff3d8b?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+  <img src="https://img.shields.io/badge/TypeScript-ff3d8b?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-ff3d8b?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+</p>
 
 **Working knowledge**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C++-d63384?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-d63384?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
+</p>
 
 **ML engineering and data**
 
-![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Spatial cross-validation](https://img.shields.io/badge/Spatial%20cross--validation-555555?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/XGBoost-e0457b?style=for-the-badge" alt="XGBoost">
+  <img src="https://img.shields.io/badge/scikit--learn-e0457b?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/pandas-e0457b?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/NumPy-e0457b?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Spatial%20cross--validation-e0457b?style=for-the-badge" alt="Spatial cross-validation">
+</p>
 
 **Remote sensing**
 
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white)
-![Landsat 8](https://img.shields.io/badge/Landsat%208%20Collection%202-0B3D91?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-c2306f?style=for-the-badge&logo=googleearthengine&logoColor=white" alt="Google Earth Engine">
+  <img src="https://img.shields.io/badge/Landsat%208%20Collection%202-c2306f?style=for-the-badge" alt="Landsat 8 Collection 2">
+</p>
 
 **Front end**
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML-ff5fa2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-ff5fa2?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-ff5fa2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-ff5fa2?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-ff5fa2?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+</p>
 
 **Back end**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-b8306f?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Ruby-b8306f?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+  <img src="https://img.shields.io/badge/Rust-b8306f?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+</p>
 
 **Hardware**
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Embedded systems](https://img.shields.io/badge/Embedded%20systems-00979D?style=for-the-badge)
-![Ultrasonic sensors](https://img.shields.io/badge/Ultrasonic%20sensors-555555?style=for-the-badge)
-![LCD and LED interfaces](https://img.shields.io/badge/LCD%20%26%20LED%20interfaces-555555?style=for-the-badge)
-![Solar power systems](https://img.shields.io/badge/Solar%20power%20systems-F5A623?style=for-the-badge)
-![IoT prototyping](https://img.shields.io/badge/IoT%20prototyping-555555?style=for-the-badge)
-![Skeleton prototyping](https://img.shields.io/badge/Skeleton%20prototyping-555555?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-a3245e?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/Embedded%20systems-a3245e?style=for-the-badge" alt="Embedded systems">
+  <img src="https://img.shields.io/badge/Ultrasonic%20sensors-a3245e?style=for-the-badge" alt="Ultrasonic sensors">
+  <img src="https://img.shields.io/badge/LCD%20%26%20LED%20interfaces-a3245e?style=for-the-badge" alt="LCD and LED interfaces">
+  <img src="https://img.shields.io/badge/Solar%20power%20systems-a3245e?style=for-the-badge" alt="Solar power systems">
+  <img src="https://img.shields.io/badge/IoT%20prototyping-a3245e?style=for-the-badge" alt="IoT prototyping">
+  <img src="https://img.shields.io/badge/Skeleton%20prototyping-a3245e?style=for-the-badge" alt="Skeleton prototyping">
+</p>
 
----
+<p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
-## Community
+## <img src="assets/heart.svg" width="21" height="18" alt=""> Community
 
 | Role | Where |
 | --- | --- |
 | **Technical Committee Lead** | Waed Students Community, King Abdulaziz University |
 | **Member, Tech Department** | IEEE SB KAU, 2027 term |
 | **Member, Tech Department** | Programming Club KAU, 2027 term |
-| **CM Experience Member** | Google Developer Groups (GDG) on Campus, KAU |
+| **CM Experience Member** | Google Developer Groups on Campus, KAU |
 | **Organizer and Event Coordinator** | English Language Olympiad (ELO), KAU |
 | **Project Coordinator, Talks X** | Engineering Day 2027 |
 | **Layout & Design Specialist** | Engineering Day 2027 Planning Department |
@@ -174,10 +188,12 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 | **Coordinator** | Annual Waed Workshop 2027 |
 | **Mawhiba Alumna** | National programme for gifted students (classes 2022–2025) |
 
----
+<p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
-## Get in touch
+## <img src="assets/heart.svg" width="21" height="18" alt=""> Get in touch
 
-Open to research collaboration. The fastest route is [LinkedIn](https://www.linkedin.com/in/nelmkt/) or [email](mailto:nalmaktoum0001@stu.kau.edu.sa). You can also find me on [X](https://x.com/nelmkt), or press start at [nelmkt.com](https://nelmkt.com).
+I'm open to research collaboration. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/nelmkt/) or [email](mailto:nalmaktoum0001@stu.kau.edu.sa), and you can also find me on [X](https://x.com/nelmkt). Or press start at [nelmkt.com](https://nelmkt.com).
 
-Languages: Arabic and English.
+I speak Arabic and English.
+
+<p align="center"><img src="assets/heart.svg" width="21" height="18" alt=""> <i>stay curious</i> <img src="assets/heart.svg" width="21" height="18" alt=""></p>
