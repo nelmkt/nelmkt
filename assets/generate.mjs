@@ -88,6 +88,35 @@ const SPRITE_COLORS = {
       .map(([fill, d]) => `<text x="${x + d}" y="${y + d}" font-size="${size}" ${fam} fill="${fill}" text-anchor="middle" ${extra}>${txt}</text>`)
       .join("");
 
+  // Pixel Arabic, the same way the website's PixelText does it: render the text tiny,
+  // keep only solid pixels, crop, then redraw each pixel as a scale x scale square.
+  const pixelArabic = (txt, cx, top, size, scale) => {
+    const sw = size * 20, sh = size * 3;
+    const tiny = new Resvg(
+      `<svg xmlns="http://www.w3.org/2000/svg" width="${sw}" height="${sh}"><text x="${sw / 2}" y="${sh * 0.62}" font-size="${size}" ${kufi} fill="#000" text-anchor="middle">${txt}</text></svg>`,
+      { font: { fontFiles: [join(here, "fonts/NotoKufiArabic-Bold.ttf")], loadSystemFonts: false } },
+    ).render();
+    const px = tiny.pixels;
+    const on = [];
+    let minX = sw, maxX = -1, minY = sh, maxY = -1;
+    for (let y = 0; y < sh; y++)
+      for (let x = 0; x < sw; x++)
+        if (px[(y * sw + x) * 4 + 3] > 110) {
+          on.push([x, y]);
+          minX = Math.min(minX, x); maxX = Math.max(maxX, x);
+          minY = Math.min(minY, y); maxY = Math.max(maxY, y);
+        }
+    const x0 = Math.round(cx - ((maxX - minX + 1) * scale) / 2);
+    // dark shadow 2 pixels out, pink 1 pixel out, then white, matching the English title
+    return [["#1a0612", 2], ["#b8306f", 1], ["#ffffff", 0]]
+      .map(([fill, d]) =>
+        `<g fill="${fill}">` +
+        on.map(([x, y]) => `<rect x="${x0 + (x - minX + d) * scale}" y="${top + (y - minY + d) * scale}" width="${scale}" height="${scale}"/>`).join("") +
+        `</g>`,
+      )
+      .join("");
+  };
+
   outPng(
     "banner.png",
     `
@@ -119,7 +148,7 @@ const SPRITE_COLORS = {
   <g stroke="url(#fade)" stroke-width="2">${floor}</g>
   <rect y="${HZ - 1}" width="${W}" height="2" fill="#ff3d8b" opacity=".6"/>
   ${shadowed(name, W / 2, 98, 50, mono)}
-  ${shadowed(arabic, W / 2, 176, 50, kufi)}
+  ${pixelArabic(arabic, W / 2, 122, 14, 3)}
   ${grid(SPRITE, 64, HZ + 22, 4, SPRITE_COLORS)}
   <text x="${W / 2}" y="${H - 34}" font-size="13" ${mono} fill="#fff" text-anchor="middle" letter-spacing="2">RESEARCHER · INNOVATOR · ML ENGINEERING · GREEN TECH</text>
   <rect y="${H - 8}" width="${W}" height="8" fill="url(#rainbow)"/>
