@@ -1,11 +1,27 @@
-// Generates the pixel-art SVGs used by the profile README.
-// Run: node assets/generate.mjs
+// Generates the images used by the profile README.
+// Run: npm install && npm run assets
+// The banner is rendered to PNG with the portfolio's fonts (Press Start 2P and
+// Noto Kufi Arabic Bold, both OFL), because GitHub won't load custom fonts in README SVGs.
+import { Resvg } from "@resvg/resvg-js";
 import { writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const out = (name, svg) => writeFileSync(join(here, name), svg.trim() + "\n");
+const outPng = (name, svg, scale) => {
+  const png = new Resvg(svg, {
+    fitTo: { mode: "zoom", value: scale },
+    font: {
+      fontFiles: [join(here, "fonts/PressStart2P-Regular.ttf"), join(here, "fonts/NotoKufiArabic-Bold.ttf")],
+      loadSystemFonts: false,
+      defaultFontFamily: "Press Start 2P",
+    },
+  })
+    .render()
+    .asPng();
+  writeFileSync(join(here, name), png);
+};
 
 // --- shared pixel helpers -------------------------------------------------
 const grid = (rows, x0, y0, s, colors) =>
@@ -65,15 +81,15 @@ const SPRITE_COLORS = {
 
   const name = "NELLY ALMAKTOUM";
   const arabic = "نيللي المكتوم";
-  const mono = `font-family="'Courier New', Courier, monospace" font-weight="700"`;
-  const kufi = `font-family="Tahoma, 'Segoe UI', Arial, sans-serif" font-weight="700"`;
+  const mono = `font-family="Press Start 2P"`;
+  const kufi = `font-family="Noto Kufi Arabic" font-weight="700" text-rendering="geometricPrecision"`;
   const shadowed = (txt, x, y, size, fam, extra = "") =>
     [["#1a0612", 6], ["#b8306f", 3], ["#ffffff", 0]]
       .map(([fill, d]) => `<text x="${x + d}" y="${y + d}" font-size="${size}" ${fam} fill="${fill}" text-anchor="middle" ${extra}>${txt}</text>`)
       .join("");
 
-  out(
-    "banner.svg",
+  outPng(
+    "banner.png",
     `
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" shape-rendering="crispEdges">
   <title>Nelly Almaktoum · نيللي المكتوم</title>
@@ -102,12 +118,13 @@ const SPRITE_COLORS = {
   </g>
   <g stroke="url(#fade)" stroke-width="2">${floor}</g>
   <rect y="${HZ - 1}" width="${W}" height="2" fill="#ff3d8b" opacity=".6"/>
-  ${shadowed(name, W / 2, 104, 64, mono, 'letter-spacing="2"')}
-  ${shadowed(arabic, W / 2, 168, 46, kufi, 'direction="rtl"')}
-  ${grid(SPRITE, 150, HZ + 22, 4, SPRITE_COLORS)}
-  <text x="${W / 2}" y="${H - 34}" font-size="18" ${mono} fill="#fff" text-anchor="middle" letter-spacing="3">RESEARCHER · INNOVATOR · ML ENGINEERING · GREEN TECH</text>
+  ${shadowed(name, W / 2, 98, 50, mono)}
+  ${shadowed(arabic, W / 2, 176, 50, kufi)}
+  ${grid(SPRITE, 64, HZ + 22, 4, SPRITE_COLORS)}
+  <text x="${W / 2}" y="${H - 34}" font-size="13" ${mono} fill="#fff" text-anchor="middle" letter-spacing="2">RESEARCHER · INNOVATOR · ML ENGINEERING · GREEN TECH</text>
   <rect y="${H - 8}" width="${W}" height="8" fill="url(#rainbow)"/>
 </svg>`,
+    2,
   );
 }
 
@@ -127,4 +144,4 @@ const SPRITE_COLORS = {
   );
 }
 
-console.log("wrote banner.svg, divider.svg");
+console.log("wrote banner.png, divider.svg");

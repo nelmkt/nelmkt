@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://nelmkt.com"><img src="assets/banner.svg" width="100%" alt="Nelly Almaktoum · نيللي المكتوم: researcher, innovator, ML engineering and green tech"></a>
+  <a href="https://nelmkt.com"><img src="assets/banner.png" width="100%" alt="Nelly Almaktoum · نيللي المكتوم: researcher, innovator, ML engineering and green tech"></a>
 </p>
 
 <p align="center">
