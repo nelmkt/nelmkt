@@ -8,16 +8,16 @@
 </p>
 
 <p align="center">
-  <a href="https://nelmkt.com"><img src="https://img.shields.io/badge/Portfolio-nelmkt.com-ff3d8b?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2a0a20" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/nelmkt/"><img src="https://img.shields.io/badge/LinkedIn-nelmkt-ff3d8b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2a0a20" alt="LinkedIn"></a>
-  <a href="https://x.com/nelmkt"><img src="https://img.shields.io/badge/X-@nelmkt-ff3d8b?style=for-the-badge&logo=x&logoColor=white&labelColor=2a0a20" alt="X"></a>
-  <a href="mailto:nalmaktoum0001@stu.kau.edu.sa"><img src="https://img.shields.io/badge/Email-KAU-ff3d8b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2a0a20" alt="Email"></a>
+  <a href="https://nelmkt.com"><img src="https://img.shields.io/badge/Portfolio-nelmkt.com-cf6f95?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2a1a26" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/nelmkt/"><img src="https://img.shields.io/badge/LinkedIn-nelmkt-d98b5f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2a1a26" alt="LinkedIn"></a>
+  <a href="https://x.com/nelmkt"><img src="https://img.shields.io/badge/X-@nelmkt-c7a84a?style=for-the-badge&logo=x&logoColor=white&labelColor=2a1a26" alt="X"></a>
+  <a href="mailto:nalmaktoum0001@stu.kau.edu.sa"><img src="https://img.shields.io/badge/Email-KAU-5fa57e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2a1a26" alt="Email"></a>
 </p>
 
 <p align="center">
-  <a href="https://orcid.org/0009-0007-9887-0280"><img src="https://img.shields.io/badge/ORCID-0009--0007--9887--0280-ff85b8?style=flat-square&logo=orcid&logoColor=white&labelColor=2a0a20" alt="ORCID"></a>
-  <a href="https://scholar.google.com/citations?user=MAgd-b0AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Nelly%20F.%20Almaktoum-ff85b8?style=flat-square&logo=googlescholar&logoColor=white&labelColor=2a0a20" alt="Google Scholar"></a>
-  <a href="https://www.researchgate.net/profile/Nelly-Almaktoum"><img src="https://img.shields.io/badge/ResearchGate-Nelly--Almaktoum-ff85b8?style=flat-square&logo=researchgate&logoColor=white&labelColor=2a0a20" alt="ResearchGate"></a>
+  <a href="https://orcid.org/0009-0007-9887-0280"><img src="https://img.shields.io/badge/ORCID-0009--0007--9887--0280-5f93c4?style=flat-square&logo=orcid&logoColor=white&labelColor=2a1a26" alt="ORCID"></a>
+  <a href="https://scholar.google.com/citations?user=MAgd-b0AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Nelly%20F.%20Almaktoum-7d76c2?style=flat-square&logo=googlescholar&logoColor=white&labelColor=2a1a26" alt="Google Scholar"></a>
+  <a href="https://www.researchgate.net/profile/Nelly-Almaktoum"><img src="https://img.shields.io/badge/ResearchGate-Nelly--Almaktoum-a06db8?style=flat-square&logo=researchgate&logoColor=white&labelColor=2a1a26" alt="ResearchGate"></a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
@@ -47,13 +47,13 @@ A reproducible machine learning framework, in Python and Google Earth Engine, fo
 - **Reproducible:** archived on Zenodo with code, Earth Engine exports, figures, tables, a reproduction guide and citation metadata
 
 <p>
-  <a href="https://doi.org/10.5281/zenodo.23168529"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23168529-ff3d8b?style=flat-square&labelColor=2a0a20" alt="DOI"></a>
-  <a href="https://github.com/nelmkt/Wahaj-Framework/releases/latest"><img src="https://img.shields.io/github/v/release/nelmkt/Wahaj-Framework?style=flat-square&color=ff3d8b&labelColor=2a0a20" alt="Latest release"></a>
-  <img src="https://img.shields.io/badge/Python-ff5fa2?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/XGBoost-ff5fa2?style=flat-square" alt="XGBoost">
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-ff5fa2?style=flat-square&logo=googleearthengine&logoColor=white" alt="Google Earth Engine">
-  <img src="https://img.shields.io/badge/Landsat%208-ff5fa2?style=flat-square" alt="Landsat 8">
-  <img src="https://img.shields.io/badge/Spatial%20statistics-ff5fa2?style=flat-square" alt="Spatial statistics">
+  <a href="https://doi.org/10.5281/zenodo.23168529"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23168529-5fa57e?style=flat-square&labelColor=2a1a26" alt="DOI"></a>
+  <a href="https://github.com/nelmkt/Wahaj-Framework/releases/latest"><img src="https://img.shields.io/github/v/release/nelmkt/Wahaj-Framework?style=flat-square&color=5fa57e&labelColor=2a1a26" alt="Latest release"></a>
+  <img src="https://img.shields.io/badge/Python-5fa57e?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/XGBoost-5fa57e?style=flat-square" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-5fa57e?style=flat-square&logo=googleearthengine&logoColor=white" alt="Google Earth Engine">
+  <img src="https://img.shields.io/badge/Landsat%208-5fa57e?style=flat-square" alt="Landsat 8">
+  <img src="https://img.shields.io/badge/Spatial%20statistics-5fa57e?style=flat-square" alt="Spatial statistics">
 </p>
 
 <br clear="right">
@@ -70,11 +70,11 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 - **Recognition:** Young Researchers Award (Modern Technologies) at UNCCD COP16, and featured in the [Saudi Gazette](https://saudigazette.com.sa/article/664214/saudi-arabia/how-curiosity-led-a-saudi-teenager-to-develop-a-un-award-winning-smart-waste-management-solution)
 
 <p>
-  <img src="https://img.shields.io/badge/Patented-c2306f?style=flat-square" alt="Patented">
-  <img src="https://img.shields.io/badge/IoT-c2306f?style=flat-square" alt="IoT">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-c2306f?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/Solar%20power-c2306f?style=flat-square" alt="Solar power">
-  <img src="https://img.shields.io/badge/Rapid%20prototyping-c2306f?style=flat-square" alt="Rapid prototyping">
+  <img src="https://img.shields.io/badge/Patented-a06db8?style=flat-square" alt="Patented">
+  <img src="https://img.shields.io/badge/IoT-a06db8?style=flat-square" alt="IoT">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-a06db8?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/Solar%20power-a06db8?style=flat-square" alt="Solar power">
+  <img src="https://img.shields.io/badge/Rapid%20prototyping-a06db8?style=flat-square" alt="Rapid prototyping">
 </p>
 
 <br clear="right">
@@ -110,65 +110,65 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-ff3d8b?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Rust-ff3d8b?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Ruby-ff3d8b?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-  <img src="https://img.shields.io/badge/TypeScript-ff3d8b?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-ff3d8b?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-cf6f95?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Rust-cf6f95?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Ruby-cf6f95?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+  <img src="https://img.shields.io/badge/TypeScript-cf6f95?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-cf6f95?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 </p>
 
 **Working knowledge**
 
 <p>
-  <img src="https://img.shields.io/badge/C++-d63384?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-d63384?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C++-d98b5f?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-d98b5f?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
 </p>
 
 **ML engineering and data**
 
 <p>
-  <img src="https://img.shields.io/badge/XGBoost-e0457b?style=for-the-badge" alt="XGBoost">
-  <img src="https://img.shields.io/badge/scikit--learn-e0457b?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/pandas-e0457b?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/NumPy-e0457b?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Spatial%20cross--validation-e0457b?style=for-the-badge" alt="Spatial cross-validation">
+  <img src="https://img.shields.io/badge/XGBoost-c7a84a?style=for-the-badge" alt="XGBoost">
+  <img src="https://img.shields.io/badge/scikit--learn-c7a84a?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/pandas-c7a84a?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/NumPy-c7a84a?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Spatial%20cross--validation-c7a84a?style=for-the-badge" alt="Spatial cross-validation">
 </p>
 
 **Remote sensing**
 
 <p>
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-c2306f?style=for-the-badge&logo=googleearthengine&logoColor=white" alt="Google Earth Engine">
-  <img src="https://img.shields.io/badge/Landsat%208%20Collection%202-c2306f?style=for-the-badge" alt="Landsat 8 Collection 2">
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-5fa57e?style=for-the-badge&logo=googleearthengine&logoColor=white" alt="Google Earth Engine">
+  <img src="https://img.shields.io/badge/Landsat%208%20Collection%202-5fa57e?style=for-the-badge" alt="Landsat 8 Collection 2">
 </p>
 
 **Front end**
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-ff5fa2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-ff5fa2?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-ff5fa2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-ff5fa2?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-ff5fa2?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/HTML-5f93c4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-5f93c4?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-5f93c4?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-5f93c4?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-5f93c4?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
 </p>
 
 **Back end**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-b8306f?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Ruby-b8306f?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-  <img src="https://img.shields.io/badge/Rust-b8306f?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Python-7d76c2?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Ruby-7d76c2?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+  <img src="https://img.shields.io/badge/Rust-7d76c2?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
 </p>
 
 **Hardware**
 
 <p>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-a3245e?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/Embedded%20systems-a3245e?style=for-the-badge" alt="Embedded systems">
-  <img src="https://img.shields.io/badge/Ultrasonic%20sensors-a3245e?style=for-the-badge" alt="Ultrasonic sensors">
-  <img src="https://img.shields.io/badge/LCD%20%26%20LED%20interfaces-a3245e?style=for-the-badge" alt="LCD and LED interfaces">
-  <img src="https://img.shields.io/badge/Solar%20power%20systems-a3245e?style=for-the-badge" alt="Solar power systems">
-  <img src="https://img.shields.io/badge/IoT%20prototyping-a3245e?style=for-the-badge" alt="IoT prototyping">
-  <img src="https://img.shields.io/badge/Skeleton%20prototyping-a3245e?style=for-the-badge" alt="Skeleton prototyping">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-a06db8?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/Embedded%20systems-a06db8?style=for-the-badge" alt="Embedded systems">
+  <img src="https://img.shields.io/badge/Ultrasonic%20sensors-a06db8?style=for-the-badge" alt="Ultrasonic sensors">
+  <img src="https://img.shields.io/badge/LCD%20%26%20LED%20interfaces-a06db8?style=for-the-badge" alt="LCD and LED interfaces">
+  <img src="https://img.shields.io/badge/Solar%20power%20systems-a06db8?style=for-the-badge" alt="Solar power systems">
+  <img src="https://img.shields.io/badge/IoT%20prototyping-a06db8?style=for-the-badge" alt="IoT prototyping">
+  <img src="https://img.shields.io/badge/Skeleton%20prototyping-a06db8?style=for-the-badge" alt="Skeleton prototyping">
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>

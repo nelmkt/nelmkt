@@ -1,8 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 18" width="900" height="18" shape-rendering="crispEdges">
   <defs>
-    <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#ff3d8b" stop-opacity="0"/><stop offset="1" stop-color="#ff3d8b"/></linearGradient>
-    <linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#ff3d8b"/><stop offset="1" stop-color="#ff3d8b" stop-opacity="0"/></linearGradient>
+    <linearGradient id="rb" x1="0" x2="1"><stop offset="0" stop-color="#cf6f95"/><stop offset=".2" stop-color="#d98b5f"/><stop offset=".4" stop-color="#c7a84a"/><stop offset=".6" stop-color="#5fa57e"/><stop offset=".8" stop-color="#5f93c4"/><stop offset="1" stop-color="#a06db8"/></linearGradient>
+    <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".15" stop-color="#fff"/><stop offset=".85" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><mask id="m"><rect width="900" height="18" fill="url(#edge)"/></mask>
   </defs>
-  <rect x="0" y="8" width="450" height="2" fill="url(#l)"/>
-  <rect x="450" y="8" width="450" height="2" fill="url(#r)"/>
+  <rect x="0" y="8" width="900" height="2" fill="url(#rb)" mask="url(#m)"/>
 </svg>

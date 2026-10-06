@@ -52,7 +52,7 @@ const SPRITE_COLORS = {
   for (let i = 0; i < 46; i++) {
     const r = (n) => (Math.sin(i * 97.13 + n * 13.7) + 1) / 2;
     const s = r(3) > 0.8 ? 4 : r(3) > 0.4 ? 3 : 2;
-    stars += `<rect x="${(r(1) * W) | 0}" y="${(r(2) * (HZ - 30)) | 0}" width="${s}" height="${s}" fill="${r(5) > 0.75 ? "#ff8cc0" : "#fff"}" opacity="${(0.35 + r(4) * 0.5).toFixed(2)}"/>`;
+    stars += `<rect x="${(r(1) * W) | 0}" y="${(r(2) * (HZ - 30)) | 0}" width="${s}" height="${s}" fill="${r(5) > 0.75 ? "#e2b6c9" : "#fff"}" opacity="${(0.35 + r(4) * 0.5).toFixed(2)}"/>`;
   }
   // perspective floor
   let floor = "";
@@ -68,7 +68,7 @@ const SPRITE_COLORS = {
   const mono = `font-family="'Courier New', Courier, monospace" font-weight="700"`;
   const kufi = `font-family="Tahoma, 'Segoe UI', Arial, sans-serif" font-weight="700"`;
   const shadowed = (txt, x, y, size, fam, extra = "") =>
-    [["#1a0612", 6], ["#b8306f", 3], ["#ffffff", 0]]
+    [["#140c14", 6], ["#a85f80", 3], ["#ffffff", 0]]
       .map(([fill, d]) => `<text x="${x + d}" y="${y + d}" font-size="${size}" ${fam} fill="${fill}" text-anchor="middle" ${extra}>${txt}</text>`)
       .join("");
 
@@ -79,18 +79,19 @@ const SPRITE_COLORS = {
   <title>Nelly Almaktoum · نيللي المكتوم</title>
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="${HZ}" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#08030a"/><stop offset=".55" stop-color="#2a0920"/><stop offset="1" stop-color="#5c1340"/>
+      <stop offset="0" stop-color="#0c0910"/><stop offset=".55" stop-color="#231827"/><stop offset="1" stop-color="#43293f"/>
     </linearGradient>
     <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#ffd000"/><stop offset=".5" stop-color="#ff6a00"/><stop offset="1" stop-color="#ff1f7a"/>
+      <stop offset="0" stop-color="#ecd28a"/><stop offset=".5" stop-color="#e2a07c"/><stop offset="1" stop-color="#cf7a9b"/>
     </linearGradient>
     <linearGradient id="rainbow" x1="0" x2="1">
-      <stop offset="0" stop-color="#ff1f7a"/><stop offset=".2" stop-color="#ff6a00"/><stop offset=".4" stop-color="#ffd000"/>
-      <stop offset=".6" stop-color="#00d25b"/><stop offset=".8" stop-color="#0091ff"/><stop offset="1" stop-color="#8a2be2"/>
+      <stop offset="0" stop-color="#cf6f95"/><stop offset=".2" stop-color="#d98b5f"/><stop offset=".4" stop-color="#c7a84a"/>
+      <stop offset=".6" stop-color="#5fa57e"/><stop offset=".8" stop-color="#5f93c4"/><stop offset="1" stop-color="#a06db8"/>
     </linearGradient>
     <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#ff3d8b" stop-opacity="0"/><stop offset=".35" stop-color="#ff3d8b" stop-opacity=".45"/>
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".35" stop-color="#fff" stop-opacity=".4"/>
     </linearGradient>
+    <mask id="floorfade" maskUnits="userSpaceOnUse" x="0" y="0" width="${W}" height="${H}"><rect width="${W}" height="${H}" fill="url(#fade)"/></mask>
     <clipPath id="above"><rect width="${W}" height="${HZ}"/></clipPath>
   </defs>
   <rect width="${W}" height="${HZ}" fill="url(#sky)"/>
@@ -100,8 +101,8 @@ const SPRITE_COLORS = {
     <circle cx="${W / 2}" cy="${HZ}" r="130" fill="url(#sun)" shape-rendering="geometricPrecision"/>
     ${slats}
   </g>
-  <g stroke="url(#fade)" stroke-width="2">${floor}</g>
-  <rect y="${HZ - 1}" width="${W}" height="2" fill="#ff3d8b" opacity=".6"/>
+  <g mask="url(#floorfade)"><g stroke="url(#rainbow)" stroke-width="2">${floor}</g></g>
+  <rect y="${HZ - 1}" width="${W}" height="2" fill="url(#rainbow)" opacity=".7"/>
   ${shadowed(name, W / 2, 104, 64, mono, 'letter-spacing="2"')}
   ${shadowed(arabic, W / 2, 168, 46, kufi, 'direction="rtl"')}
   ${grid(SPRITE, 150, HZ + 22, 4, SPRITE_COLORS)}
@@ -119,11 +120,10 @@ const SPRITE_COLORS = {
     `
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} 18" width="${W}" height="18" shape-rendering="crispEdges">
   <defs>
-    <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#ff3d8b" stop-opacity="0"/><stop offset="1" stop-color="#ff3d8b"/></linearGradient>
-    <linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#ff3d8b"/><stop offset="1" stop-color="#ff3d8b" stop-opacity="0"/></linearGradient>
+    <linearGradient id="rb" x1="0" x2="1"><stop offset="0" stop-color="#cf6f95"/><stop offset=".2" stop-color="#d98b5f"/><stop offset=".4" stop-color="#c7a84a"/><stop offset=".6" stop-color="#5fa57e"/><stop offset=".8" stop-color="#5f93c4"/><stop offset="1" stop-color="#a06db8"/></linearGradient>
+    <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".15" stop-color="#fff"/><stop offset=".85" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><mask id="m"><rect width="${W}" height="18" fill="url(#edge)"/></mask>
   </defs>
-  <rect x="0" y="8" width="${W / 2}" height="2" fill="url(#l)"/>
-  <rect x="${W / 2}" y="8" width="${W / 2}" height="2" fill="url(#r)"/>
+  <rect x="0" y="8" width="${W}" height="2" fill="url(#rb)" mask="url(#m)"/>
 </svg>`,
   );
 }
