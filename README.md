@@ -87,6 +87,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 | Year | Recognition | Awarded by |
 | :---: | --- | --- |
 | — | **Patent** for Aykah, a solar-powered IoT smart waste management system | Inventor: Nelly Almaktoum |
+| 2026 | [Feature story](https://saudigazette.com.sa/article/664214/saudi-arabia/how-curiosity-led-a-saudi-teenager-to-develop-a-un-award-winning-smart-waste-management-solution) on my journey from curiosity to the award-winning Aykah smart bin | Saudi Gazette |
 | 2026 | Certificate of Appreciation for distinguished participation in local and international competitions | King Abdulaziz University |
 | 2026 | Academic Excellence Award 2025–2026, for a GPA of 4.5 or higher across two consecutive semesters | King Abdulaziz University |
 | 2025 | IEEE Ideation Competition, 22nd International Learning and Technology Conference: presenter and team lead of five, with a top-ranked paper at the Human Machine Fusion exhibition | IEEE |
