@@ -5,7 +5,7 @@
 <p align="center">
   <b>Undergraduate researcher merging technology with complex problems to contribute in real-world impact.</b><br>
   Computer Science at King Abdulaziz University · FCIT · Waed Distinctive Excellence track · Jeddah, Saudi Arabia<br>
-  Youngest UN-certified Saudi researcher · 4 national and international recognitions
+  One of the youngest Saudi researchers recognized at UNCCD COP16 · 4 national and international recognitions
 </p>
 
 <p align="center">
@@ -90,7 +90,9 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 | 2026 | Certificate of Appreciation for distinguished participation in local and international competitions | King Abdulaziz University |
 | 2026 | Academic Excellence Award 2025–2026, for a GPA of 4.5 or higher across two consecutive semesters | King Abdulaziz University |
 | 2025 | IEEE Ideation Competition, 22nd International Learning and Technology Conference: presenter and team lead of five, with a top-ranked paper at the Human Machine Fusion exhibition | IEEE |
-| 2024 | **Young Researchers Award, Modern Technologies.** Youngest participant among 209 researchers and professors from 36 countries, making me the youngest UN-certified Saudi researcher | United Nations Convention to Combat Desertification (UNCCD), COP16 |
+| 2024 | **Young Researchers Award, Modern Technologies.** Selected by an international panel and received at 16, making me one of the youngest Saudi researchers to be recognized through the initiative (youngest of 209 researchers and professors from 36 countries) | United Nations Convention to Combat Desertification (UNCCD COP16) |
+| 2024 | National recognition for Aykah among the selected Young Researchers at UNCCD COP16 | National Center for Meteorology (NCM) |
+| 2024 | National recognition for Aykah | Ministry of Environment, Water and Agriculture (MEWA) |
 | 2022 | National Mathematics Olympiad, final stage, representing the Western Region | Ministry of Education, Saudi Arabia |
 
 **Competitions and events:** Consulting Championship 2025 (Aramco) · Hackathon Al Hareeq (Ministry of Environment, Water and Agriculture, 2025) · The 2nd Scientific Forum (King Abdulaziz University, 2025)
