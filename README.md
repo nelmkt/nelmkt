@@ -162,6 +162,13 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
   <img src="https://img.shields.io/badge/Python-6e62e5?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Ruby-6e62e5?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
   <img src="https://img.shields.io/badge/Rust-6e62e5?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Node.js-6e62e5?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-ff4f9a?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 **Hardware**
