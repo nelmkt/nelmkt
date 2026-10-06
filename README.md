@@ -6,6 +6,9 @@
 
 Computer Science student at King Abdulaziz University (FCIT, Waed Distinctive Excellence track) · Jeddah, Saudi Arabia
 
+ML engineering · remote sensing · green tech
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-nelmkt.com-FF3D8B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nelmkt.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nelmkt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelmkt/)
 [![X](https://img.shields.io/badge/X-@nelmkt-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nelmkt)
 [![Email](https://img.shields.io/badge/Email-KAU-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nalmaktoum0001@stu.kau.edu.sa)
@@ -20,10 +23,11 @@ Computer Science student at King Abdulaziz University (FCIT, Waed Distinctive Ex
 
 ## About
 
-I work where machine learning, remote sensing and sustainability meet: measuring what a green intervention actually does, and being explicit about what the data cannot show. My research so far covers urban greening and heat in desalination-dependent cities, and low-cost smart waste management. I aim to continue into graduate research and a Ph.D and I am also into designing and painting on the side.
+I work where machine learning, remote sensing and sustainability meet: measuring what a green intervention actually does, and being explicit about what the data cannot show. My research so far covers urban greening and heat in desalination-dependent cities, and low-cost smart waste management. I aim to continue into graduate research and a Ph.D, and I also design and paint on the side.
 
 - **Leading:** the Technical Committee of the Waed Students Community at KAU
-- **Interests:** applied ML, full-stack development, reproducible research, green technology, IoT
+- **Interests:** ML engineering, artificial intelligence, applied ML, full-stack development, reproducible research, green technology, IoT
+- **Portfolio:** a retro, playable version of this page lives at [nelmkt.com](https://nelmkt.com)
 
 ---
 
@@ -55,10 +59,11 @@ A reproducible ML Python and Google Earth Engine framework for evaluating urban 
 
 <a href="https://github.com/nelmkt/Smart-Bin-Aykah"><img align="right" width="220" src="https://raw.githubusercontent.com/nelmkt/Smart-Bin-Aykah/main/images/prototype.jpg" alt="The Aykah smart bin prototype"></a>
 
-A cost-effective, solar-powered IoT smart bin, taken from scientific research on a Sustainable Development Goal problem through to a working prototype and a business concept.
+A patented, cost-effective, solar-powered IoT smart bin, taken from scientific research on a Sustainable Development Goal problem through to a working prototype and a business concept.
 
 - Raspberry Pi with ultrasonic fill sensing, LCD interface, LED status indicators and air filtration
 - Community survey of 222 participants on waste disposal behaviour and acceptance of smart waste technology
+- Protected by a patent
 - Young Researchers Award (Modern Technologies) at UNCCD COP16
 - Featured in the [Saudi Gazette](https://saudigazette.com.sa/article/664214/saudi-arabia/how-curiosity-led-a-saudi-teenager-to-develop-a-un-award-winning-smart-waste-management-solution)
 
@@ -66,6 +71,7 @@ A cost-effective, solar-powered IoT smart bin, taken from scientific research on
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Solar power](https://img.shields.io/badge/Solar%20power-F5A623?style=flat-square)
 ![Rapid prototyping](https://img.shields.io/badge/Rapid%20prototyping-555555?style=flat-square)
+![Patented](https://img.shields.io/badge/Patented-8A2BE2?style=flat-square)
 
 <br clear="right">
 
@@ -75,11 +81,27 @@ A cost-effective, solar-powered IoT smart bin, taken from scientific research on
 
 | Year | Recognition | Awarded by |
 | :---: | --- | --- |
-| 2026 | Certificate of Appreciation for participation in local and international competitions | King Abdulaziz University |
-| 2026 | Academic Excellence Award, 2025–2026 | King Abdulaziz University |
-| 2025 | IEEE Ideation Competition, 22nd International Learning and Technology Conference | IEEE |
-| 2024 | **Young Researchers Award, Modern Technologies.** Youngest of 209 researchers from 36 countries | United Nations Convention to Combat Desertification (UNCCD), COP16 |
+| — | **Patent** for Aykah, the solar-powered IoT smart waste management system | Inventor: Nelly Almaktoum |
+| 2026 | Certificate of Appreciation for distinguished participation in local and international competitions | King Abdulaziz University |
+| 2026 | Academic Excellence Award 2025–2026, for a GPA of 4.5 or higher across two consecutive semesters | King Abdulaziz University |
+| 2025 | IEEE Ideation Competition, 22nd International Learning and Technology Conference: presenter and team lead of five, with a top-ranked paper at the Human Machine Fusion exhibition | IEEE |
+| 2024 | **Young Researchers Award, Modern Technologies.** Youngest participant of 209 researchers and professors from 36 countries | United Nations Convention to Combat Desertification (UNCCD), COP16 |
 | 2022 | National Mathematics Olympiad, final stage, representing the Western Region | Ministry of Education, Saudi Arabia |
+
+### Competitions and events
+
+- Consulting Championship 2025, Aramco
+- Hackathon Al Hareeq, Ministry of Environment, Water and Agriculture (2025)
+- The 2nd Scientific Forum, King Abdulaziz University (2025)
+
+---
+
+## Education
+
+| | |
+| --- | --- |
+| **King Abdulaziz University** · BS Computer Science, FCIT · 2025–2030 | Waed: Distinctive Excellence track for gifted students |
+| **Dar Al Fikr Schools** · American High School Diploma · 2022–2025 | Graduation project: Aykah |
 
 ---
 
@@ -98,7 +120,7 @@ A cost-effective, solar-powered IoT smart bin, taken from scientific research on
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Machine learning and data**
+**ML engineering and data**
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -142,11 +164,13 @@ A cost-effective, solar-powered IoT smart bin, taken from scientific research on
 | Role | Where |
 | --- | --- |
 | **Technical Committee Lead** | Waed Students Community, King Abdulaziz University |
-| **Member, Tech Department** | IEEE SB KAU, 2027 |
-| **Member, Tech Department** | Programming Club KAU, 2027 |
-| **CM Experience Member** | Google Developer Group (GDG), 2026 |
-| **Project Coordinator, Talk X** | Engineering Day 2027 |
+| **Member, Tech Department** | IEEE SB KAU, 2027 term |
+| **Member, Tech Department** | Programming Club KAU, 2027 term |
+| **CM Experience Member** | Google Developer Groups (GDG) on Campus, KAU |
+| **Organizer and Event Coordinator** | English Language Olympiad (ELO), KAU |
+| **Project Coordinator, Talks X** | Engineering Day 2027 |
 | **Layout & Design Specialist** | Engineering Day 2027 Planning Department |
+| **Member** | Scientific Research Club, KAU |
 | **Coordinator** | Annual Waed Workshop 2027 |
 | **Mawhiba Alumna** | National programme for gifted students (classes 2022–2025) |
 
@@ -154,6 +178,6 @@ A cost-effective, solar-powered IoT smart bin, taken from scientific research on
 
 ## Get in touch
 
-Open to research collaboration, The fastest route is [LinkedIn](https://www.linkedin.com/in/nelmkt/) or [email](mailto:nalmaktoum0001@stu.kau.edu.sa). You can also find me on [X](https://x.com/nelmkt).
+Open to research collaboration. The fastest route is [LinkedIn](https://www.linkedin.com/in/nelmkt/) or [email](mailto:nalmaktoum0001@stu.kau.edu.sa). You can also find me on [X](https://x.com/nelmkt), or press start at [nelmkt.com](https://nelmkt.com).
 
 Languages: Arabic and English.
