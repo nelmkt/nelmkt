@@ -122,6 +122,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 <p>
   <img src="https://img.shields.io/badge/C++-ff8a3d?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C%23-ff8a3d?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Java-ff8a3d?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
 
 **ML engineering and data**
