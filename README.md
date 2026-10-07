@@ -5,7 +5,7 @@
 <p align="center">
   <b>Undergraduate researcher merging technology with complex problems to contribute in real-world impact.</b><br>
   Computer Science at King Abdulaziz University, FCIT - Waed Distinctive Excellence track, Jeddah, Saudi Arabia<br>
-  Youngest UN-certified Saudi researcher - 5 national and international recognitions and 3 national and international awards
+  Youngest UN-certified Saudi researcher - 6 national and international recognitions and 3 national and international awards
 </p>
 
 <p align="center">
