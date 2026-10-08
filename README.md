@@ -28,7 +28,7 @@
 I work where machine learning, remote sensing and sustainability meet: measuring what a green intervention actually does, and being honest about what the data cannot show. So far my research has covered urban greening and heat in desalination-dependent cities, and low-cost smart waste management. I plan to continue into graduate research and a Ph.D. Away from the keyboard, I design and paint.
 
 - **Leading** the Technical Committee of the Waed Students Community at KAU
-- **Interested in** ML engineering, artificial intelligence, applied ML, full-stack development, reproducible research, green technology and IoT
+- **Interested in** AI/ML engineering, full-stack development, reproducible research, green sustainable technology and IoT
 - **Playable portfolio** at [nelmkt.com](https://nelmkt.com), a retro arcade version of this page
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
