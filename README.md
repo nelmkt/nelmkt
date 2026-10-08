@@ -104,8 +104,8 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 
 | School | Programme | Years |
 | --- | --- | :---: |
-| **King Abdulaziz University** | BS Computer Science, FCIT · Waed Distinctive Excellence track for gifted students | 2025–2030 |
-| **Dar Al Fikr Schools** | American High School Diploma · graduation project: Aykah | 2022–2025 |
+| **King Abdulaziz University** | BS Computer Science, FCIT - Waed Distinctive Excellence track for gifted students | 2025–2030 |
+| **Dar Al Fikr Schools** | American High School Diploma - Mawhiba Alumna | 2022–2025 |
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
