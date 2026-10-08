@@ -96,7 +96,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 | 2024 | National recognition for Aykah | Ministry of Environment, Water and Agriculture (MEWA) |
 | 2022 | National Mathematics Olympiad, final stage, representing the Western Region | Ministry of Education, Saudi Arabia |
 
-**Competitions and events:** Consulting Championship 2025 (Aramco) · Hackathon Al Hareeq (Ministry of Environment, Water and Agriculture, 2025) · The 2nd Scientific Forum (King Abdulaziz University, 2025)
+**Competitions and events:** Consulting Championship 2025 (Aramco), Hackathon Al Hareeq (Ministry of Environment, Water and Agriculture, 2025), The 2nd Scientific Forum (King Abdulaziz University, 2025)
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
