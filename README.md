@@ -161,6 +161,10 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
   <img src="https://img.shields.io/badge/pandas-f2c12e?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
   <img src="https://img.shields.io/badge/NumPy-f2c12e?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Spatial%20cross--validation-f2c12e?style=for-the-badge" alt="Spatial cross-validation">
+  <img src="https://img.shields.io/badge/Anomaly%20detection-f2c12e?style=for-the-badge" alt="Anomaly detection">
+  <img src="https://img.shields.io/badge/Explainable%20AI-f2c12e?style=for-the-badge" alt="Explainable AI">
+  <img src="https://img.shields.io/badge/MLOps-f2c12e?style=for-the-badge" alt="MLOps">
+  <img src="https://img.shields.io/badge/Matplotlib-f2c12e?style=for-the-badge" alt="Matplotlib">
 </p>
 
 **Remote sensing**
@@ -188,6 +192,8 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
   <img src="https://img.shields.io/badge/Rust-6e62e5?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Node.js-6e62e5?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/FastAPI-6e62e5?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/REST%20APIs-6e62e5?style=for-the-badge" alt="REST APIs">
+  <img src="https://img.shields.io/badge/Pydantic-6e62e5?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic">
 </p>
 
 **Tools**
@@ -195,6 +201,8 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 <p>
   <img src="https://img.shields.io/badge/Git-ff4f9a?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-ff4f9a?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-ff4f9a?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/pytest-ff4f9a?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest">
 </p>
 
 **Hardware**
