@@ -37,6 +37,28 @@ My research connects computing with real-world systems: reproducible ML pipeline
 
 ## Research and projects
 
+### [Maeen - مَعين](https://github.com/nelmkt/maeen)
+
+<a href="https://github.com/nelmkt/maeen"><img align="right" width="360" src="https://raw.githubusercontent.com/nelmkt/maeen/main/docs/dashboard.jpg" alt="The Maeen dashboard flagging a possible leak between two devices on a water pipeline"></a>
+
+Real-time detection, location and explanation of leaks and water-quality problems in water pipelines. It turns in-pipe sensor streams into decisions: what is wrong, where, how serious, why and what to do. *Maeen* is the Quranic word for flowing, pure water.
+
+- **Accuracy:** physics-aware features plus gradient boosting reach 94.1% fault-type accuracy across 6 classes with 0.3% false alarms on unseen scenarios, against 78.5% for classic threshold rules
+- **Location:** the right pair of devices 99.9% of the time, within about 110 m on a 5 km line, with a 5-minute median detection delay for leaks
+- **Data:** a physics-based pipeline simulator with randomised leaks, blockages, contamination, corrosion and sensor faults while the real devices are being built
+- **Engineering:** a FastAPI service with an Arabic/English dashboard, plain-language evidence for every alert, a model registry and a CI quality gate
+
+<p>
+  <a href="https://github.com/nelmkt/maeen/blob/main/reports/EVALUATION.md"><img src="https://img.shields.io/badge/Evaluation%20report-3d9be9?style=flat-square&labelColor=2a0a20" alt="Evaluation report"></a>
+  <img src="https://img.shields.io/badge/Python-3d9be9?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/scikit--learn-3d9be9?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Anomaly%20detection-3d9be9?style=flat-square" alt="Anomaly detection">
+  <img src="https://img.shields.io/badge/FastAPI-3d9be9?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Docker-3d9be9?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+<br clear="right">
+
 ### [Wahaj - وهاج](https://github.com/nelmkt/Wahaj-Framework)
 
 <a href="https://github.com/nelmkt/Wahaj-Framework"><img align="right" width="360" src="https://raw.githubusercontent.com/nelmkt/Wahaj-Framework/v11-framework-ml/figures_r1/fig_r1_dose_contrasts.png" alt="Wahaj: measured land surface temperature change for each number of greened pixels, relative to matched never-vegetated controls"></a>
@@ -165,6 +187,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
   <img src="https://img.shields.io/badge/Ruby-6e62e5?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
   <img src="https://img.shields.io/badge/Rust-6e62e5?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Node.js-6e62e5?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/FastAPI-6e62e5?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
 </p>
 
 **Tools**
