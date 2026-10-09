@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://nelmkt.com"><img src="https://img.shields.io/badge/Portfolio-nelmkt.com-ff4f9a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2a0a20" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/nelmkt/"><img src="https://img.shields.io/badge/LinkedIn-nelmkt-ff8a3d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2a0a20" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/nelmkt/"><img src="https://img.shields.io/badge/LinkedIn-nelmkt-ff8a3d?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+PHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Jy8+PC9zdmc+&labelColor=2a0a20" alt="LinkedIn"></a>
   <a href="https://x.com/nelmkt"><img src="https://img.shields.io/badge/X-@nelmkt-f2c12e?style=for-the-badge&logo=x&logoColor=white&labelColor=2a0a20" alt="X"></a>
   <a href="mailto:scifinel@gmail.com"><img src="https://img.shields.io/badge/Email-scifinel%40gmail.com-2fbf71?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2a0a20" alt="Email"></a>
 </p>
@@ -25,11 +25,13 @@
 
 ## About me
 
-I work where machine learning, remote sensing and sustainability meet: measuring what a green intervention actually does, and being honest about what the data cannot show. So far my research has covered urban greening and heat in desalination-dependent cities, and low-cost smart waste management. I plan to continue into graduate research and a Ph.D. Away from the keyboard, I design and paint.
+I'm a computer science student at King Abdulaziz University who loves solving problems with code and hardware, from machine learning models and full-stack web apps to [Aykah](https://github.com/nelmkt/Smart-Bin-Aykah), a solar-powered smart waste bin I designed, built and prototyped end to end.
+
+My research connects computing with real-world systems: reproducible ML pipelines, satellite data and IoT. I'm aiming for a Ph.D. and a career in academia. Away from the keyboard, I'm an artist.
 
 - **Leading** the Technical Committee of the Waed Students Community at KAU
-- **Interested in** AI/ML engineering, full-stack development, reproducible research, green sustainable technology and IoT
-- **Playable portfolio** at [nelmkt.com](https://nelmkt.com), a retro arcade version of this page
+- **Focus areas:** AI/ML engineering, full-stack web development, IoT and embedded systems, remote sensing, sustainable technology
+- **Portfolio** at [nelmkt.com](https://nelmkt.com): a playable retro arcade, with a professional mode one click away
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
