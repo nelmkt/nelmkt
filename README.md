@@ -27,7 +27,7 @@
 
 I'm a computer science student at King Abdulaziz University who loves solving problems with code and hardware, from machine learning models and full-stack web apps to [Aykah](https://github.com/nelmkt/Smart-Bin-Aykah), a solar-powered smart waste bin I designed, built and prototyped end to end.
 
-My research connects computing with real-world systems: reproducible ML pipelines, satellite data and IoT. I'm aiming for a Ph.D. and a career in academia. Away from the keyboard, I'm an artist.
+My research connects computing with real-world systems, especially water and the environment: reproducible ML pipelines, satellite data and IoT, from measuring what urban greening really does in [Wahaj](https://github.com/nelmkt/Wahaj-Framework) to catching pipeline leaks in real time with [Maeen](https://github.com/nelmkt/maeen). I'm aiming for a Ph.D. and a career in academia. Away from the keyboard, I'm an artist.
 
 - **Leading** the Technical Committee of the Waed Students Community at KAU
 - **Focus areas:** AI/ML engineering, full-stack web development, IoT and embedded systems, remote sensing, sustainable technology
@@ -120,7 +120,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 | 2024 | National recognition for Aykah | Ministry of Environment, Water and Agriculture (MEWA) |
 | 2022 | National Mathematics Olympiad, final stage, representing the Western Region | Ministry of Education, Saudi Arabia |
 
-**Competitions and events:** NSMO Mathematical Saudi Olympiad 2022, UNCCD COP16 (United Nations Convention to Combat Desertification) 2024, Consulting Championship 2025 (Aramco), Hackathon Al Hareeq (Ministry of Environment, Water and Agriculture, 2025), The 2nd Scientific Forum (King Abdulaziz University, 2025), IECE (International Engineering Conference) 2026, Myahthoon 2027
+**Competitions and events:** NSMO Mathematical Saudi Olympiad 2022, UNCCD COP16 (United Nations Convention to Combat Desertification) 2024, Consulting Championship 2025 (Aramco), Hackathon Al Hareeq (Ministry of Environment, Water and Agriculture, 2025), The 2nd Scientific Forum (King Abdulaziz University, 2025), IECE 2026, the International Engineering Conference and Exhibition (Saudi Council of Engineers), 2nd Conference on Sustainability and Quality of Life 2026 (King Abdulaziz University, research paper), Miyahthon 2027 (Saudi Water Authority)
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
