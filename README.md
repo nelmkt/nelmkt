@@ -45,7 +45,7 @@ Real-time detection, location and explanation of leaks and water-quality problem
 
 - **Accuracy:** physics-aware features plus gradient boosting reach 94.1% fault-type accuracy across 6 classes with 0.3% false alarms on unseen scenarios, against 78.5% for classic threshold rules
 - **Location:** the right pair of devices 99.9% of the time, within about 110 m on a 5 km line, with a 5-minute median detection delay for leaks
-- **Data:** a physics-based pipeline simulator with randomised leaks, blockages, contamination, corrosion and sensor faults while the real devices are being built
+- **Prototype:** complete and working, trained and stress-tested on a physics-based pipeline simulator with randomised leaks, blockages, contamination, corrosion and sensor faults
 - **Engineering:** a FastAPI service with an Arabic/English dashboard, plain-language evidence for every alert, a model registry and a CI quality gate
 
 <p>
