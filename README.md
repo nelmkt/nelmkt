@@ -27,7 +27,7 @@
 
 I'm a computer science student at King Abdulaziz University who loves solving problems with code and hardware, from machine learning models and full-stack web apps to [Aykah](https://github.com/nelmkt/Smart-Bin-Aykah), a solar-powered smart waste bin I designed, built and prototyped end to end.
 
-My research connects computing with real-world systems, especially water and the environment: reproducible ML pipelines, satellite data and IoT, from measuring what urban greening really does in [Wahaj](https://github.com/nelmkt/Wahaj-Framework) to catching pipeline leaks in real time with [Maeen](https://github.com/nelmkt/maeen). I'm aiming for a Ph.D. and a career in academia. Away from the keyboard, I'm an artist.
+My research connects computing with real-world systems: reproducible ML pipelines, satellite data and IoT, from measuring what urban greening really does in [Wahaj](https://github.com/nelmkt/Wahaj-Framework) to catching pipeline leaks in real time with [Maeen](https://github.com/nelmkt/maeen). I'm aiming for a Ph.D. and a career in academia. Away from the keyboard, I'm an artist.
 
 - **Leading** the Technical Committee of the Waed Students Community at KAU
 - **Focus areas:** AI/ML engineering, full-stack web development, IoT and embedded systems, remote sensing, sustainable technology
