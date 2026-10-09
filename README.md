@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://nelmkt.com"><img src="assets/banner.png" width="100%" alt="Nelly Almaktoum · نيللي المكتوم: researcher, innovator, ML engineer and green tech"></a>
+  <a href="https://nelmkt.com"><img src="assets/banner.png" width="100%" alt="Nelly Almaktoum - نيللي المكتوم: researcher, innovator, ML engineer and green tech"></a>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ My research connects computing with real-world systems: reproducible ML pipeline
 
 ## Research and projects
 
-### [Wahaj · وهاج](https://github.com/nelmkt/Wahaj-Framework)
+### [Wahaj - وهاج](https://github.com/nelmkt/Wahaj-Framework)
 
 <a href="https://github.com/nelmkt/Wahaj-Framework"><img align="right" width="360" src="https://raw.githubusercontent.com/nelmkt/Wahaj-Framework/v11-framework-ml/figures_r1/fig_r1_dose_contrasts.png" alt="Wahaj: measured land surface temperature change for each number of greened pixels, relative to matched never-vegetated controls"></a>
 
@@ -61,7 +61,7 @@ A reproducible machine learning framework, in Python and Google Earth Engine, fo
 
 <br clear="right">
 
-### [Aykah · آيكة](https://github.com/nelmkt/Smart-Bin-Aykah)
+### [Aykah - آيكة](https://github.com/nelmkt/Smart-Bin-Aykah)
 
 <a href="https://github.com/nelmkt/Smart-Bin-Aykah"><img align="right" width="220" src="https://raw.githubusercontent.com/nelmkt/Smart-Bin-Aykah/main/images/prototype.jpg" alt="The Aykah smart bin prototype"></a>
 
