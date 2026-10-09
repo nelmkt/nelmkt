@@ -39,7 +39,7 @@ My research connects computing with real-world systems: reproducible ML pipeline
 
 ### [Maeen - مَعين](https://github.com/nelmkt/maeen)
 
-<a href="https://github.com/nelmkt/maeen"><img align="right" width="360" src="https://raw.githubusercontent.com/nelmkt/maeen/main/docs/dashboard.jpg" alt="The Maeen dashboard flagging a possible leak between two devices on a water pipeline"></a>
+<a href="https://github.com/nelmkt/maeen"><img align="right" width="360" src="https://raw.githubusercontent.com/nelmkt/maeen/main/reports/leak_size_sweep.png" alt="Maeen: leak detection and correct pipe segment for every leak size, from under 2% of the flow upward"></a>
 
 Real-time detection, location and explanation of leaks and water-quality problems in water pipelines. It turns in-pipe sensor streams into decisions: what is wrong, where, how serious, why and what to do. *Maeen* is the Quranic word for flowing, pure water.
 
