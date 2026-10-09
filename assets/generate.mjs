@@ -121,7 +121,7 @@ const SPRITE_COLORS = {
     "banner.png",
     `
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" shape-rendering="crispEdges">
-  <title>Nelly Almaktoum · نيللي المكتوم</title>
+  <title>Nelly Almaktoum - نيللي المكتوم</title>
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="${HZ}" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#08030a"/><stop offset=".55" stop-color="#2a0920"/><stop offset="1" stop-color="#5c1340"/>
@@ -150,7 +150,7 @@ const SPRITE_COLORS = {
   ${shadowed(name, W / 2, 98, 50, mono)}
   ${pixelArabic(arabic, W / 2, 122, 14, 3)}
   ${grid(SPRITE, 64, HZ + 22, 4, SPRITE_COLORS)}
-  <text x="${W / 2}" y="${H - 34}" font-size="13" ${mono} fill="#fff" text-anchor="middle" letter-spacing="2">RESEARCHER · INNOVATOR · ML ENGINEER · GREEN TECH</text>
+  <text x="${W / 2}" y="${H - 34}" font-size="13" ${mono} fill="#fff" text-anchor="middle" letter-spacing="2">RESEARCHER - INNOVATOR - ML ENGINEER - GREEN TECH</text>
   <rect y="${H - 8}" width="${W}" height="8" fill="url(#rainbow)"/>
 </svg>`,
     2,
