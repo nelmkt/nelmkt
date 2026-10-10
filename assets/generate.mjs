@@ -1,7 +1,3 @@
-// Generates the images used by the profile README.
-// Run: npm install && npm run assets
-// The banner is rendered to PNG with the portfolio's fonts (Press Start 2P and
-// Noto Kufi Arabic Bold, both OFL), because GitHub won't load custom fonts in README SVGs.
 import { Resvg } from "@resvg/resvg-js";
 import { writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
@@ -23,7 +19,6 @@ const outPng = (name, svg, scale) => {
   writeFileSync(join(here, name), png);
 };
 
-// --- shared pixel helpers -------------------------------------------------
 const grid = (rows, x0, y0, s, colors) =>
   rows
     .flatMap((row, y) =>
@@ -33,7 +28,6 @@ const grid = (rows, x0, y0, s, colors) =>
     )
     .join("");
 
-// The runner sprite from the portfolio (components/sprite.ts), standing pose.
 const SPRITE = [
   "....kkkkkk......",
   "...kHHHHHHkk....",
@@ -61,20 +55,17 @@ const SPRITE_COLORS = {
   W: "#ffffff", E: "#8e8a99", T: "#f37aa3", B: "#26242b", b: "#4a4652", P: "#4b2f6b", F: "#2f2c34",
 };
 
-// --- banner ----------------------------------------------------------------
 {
-  const W = 1200, H = 340, HZ = 222; // horizon y
+  const W = 1200, H = 340, HZ = 222;
   let stars = "";
   for (let i = 0; i < 46; i++) {
     const r = (n) => (Math.sin(i * 97.13 + n * 13.7) + 1) / 2;
     const s = r(3) > 0.8 ? 4 : r(3) > 0.4 ? 3 : 2;
     stars += `<rect x="${(r(1) * W) | 0}" y="${(r(2) * (HZ - 30)) | 0}" width="${s}" height="${s}" fill="${r(5) > 0.75 ? "#ff8cc0" : "#fff"}" opacity="${(0.35 + r(4) * 0.5).toFixed(2)}"/>`;
   }
-  // perspective floor
   let floor = "";
   for (let i = -14; i <= 14; i++) floor += `<line x1="${W / 2}" y1="${HZ}" x2="${W / 2 + i * 120}" y2="${H}"/>`;
   [6, 15, 28, 46, 70, 100].forEach((d) => (floor += `<line x1="0" y1="${HZ + d}" x2="${W}" y2="${HZ + d}"/>`));
-  // sun slats (cut across the lower half of the sun)
   const slats = [[HZ - 44, 4], [HZ - 30, 6], [HZ - 16, 8]]
     .map(([y, h]) => `<rect x="${W / 2 - 140}" y="${y}" width="280" height="${h}" fill="url(#sky)"/>`)
     .join("");
@@ -88,8 +79,6 @@ const SPRITE_COLORS = {
       .map(([fill, d]) => `<text x="${x + d}" y="${y + d}" font-size="${size}" ${fam} fill="${fill}" text-anchor="middle" ${extra}>${txt}</text>`)
       .join("");
 
-  // Pixel Arabic, the same way the website's PixelText does it: render the text tiny,
-  // keep only solid pixels, crop, then redraw each pixel as a scale x scale square.
   const pixelArabic = (txt, cx, top, size, scale) => {
     const sw = size * 20, sh = size * 3;
     const tiny = new Resvg(
@@ -107,7 +96,6 @@ const SPRITE_COLORS = {
           minY = Math.min(minY, y); maxY = Math.max(maxY, y);
         }
     const x0 = Math.round(cx - ((maxX - minX + 1) * scale) / 2);
-    // dark shadow 2 pixels out, pink 1 pixel out, then white, matching the English title
     return [["#1a0612", 2], ["#b8306f", 1], ["#ffffff", 0]]
       .map(([fill, d]) =>
         `<g fill="${fill}">` +
@@ -157,7 +145,6 @@ const SPRITE_COLORS = {
   );
 }
 
-// --- divider ---------------------------------------------------------------
 {
   const W = 900;
   out(
