@@ -225,7 +225,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 | --- | --- |
 | **Technical Committee Lead** | Waed Students Community, King Abdulaziz University |
 | **Member, Tech Department** | IEEE SB KAU, 2027 term |
-| **Member, Tech Department** | Programming Club KAU, 2027 term |
+| **Vice Leader, Tech Department** | Programming Club KAU, 2027 term |
 | **CM Experience Member** | Google Developer Groups on Campus, KAU |
 | **Organizer and Event Coordinator** | English Language Olympiad (ELO), KAU |
 | **Project Coordinator, Talks X** | Engineering Day 2027 |
