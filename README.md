@@ -122,7 +122,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 
 **Competitions and events:** NSMO Mathematical Saudi Olympiad 2022, UNCCD COP16 (United Nations Convention to Combat Desertification) 2024, Consulting Championship 2025 (Aramco), Hackathon Al Hareeq (Ministry of Environment, Water and Agriculture, 2025), The 2nd Scientific Forum (King Abdulaziz University, 2025), IECE 2026, the International Engineering Conference and Exhibition (Saudi Council of Engineers), 2nd Conference on Sustainability and Quality of Life 2026 (King Abdulaziz University, research paper), Miyahthon 2027 (Saudi Water Authority)
 
-**Current submissions (October 2026):** Global Sustainability Challenge 2026–27 (Wahaj), KAUST Academy AI Specialization 2026/27 (application under review), IOCE 2027 (Wahaj abstract), i3EC’26 (Aykah), WAW 2026 (Wahaj manuscript), Wilkes Climate Innovation Prize 2027 (Wahaj), IGIIDeation 2027 (Aykah abstract and paper), Saudi HPC/AI 2026 at KAUST (Wahaj e-poster)
+**Current submissions (October 2026):** Global Sustainability Challenge 2026–27 (Stanford Doerr School of Sustainability and partner universities), KAUST Academy Artificial Intelligence Specialization 2026/27 (under review), 2nd International Online Conference on Environments (IOCE 2027, MDPI), i3EC’26, WAW 2026, Wilkes Climate Innovation Prize 2027 (University of Utah), International Grand Invention, Innovation and Design Expo (IGIIDeation 2027, IIUM), Saudi HPC/AI Conference 2026 at KAUST
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
@@ -193,8 +193,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
   <img src="https://img.shields.io/badge/Ruby-6e62e5?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
   <img src="https://img.shields.io/badge/Rust-6e62e5?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Node.js-6e62e5?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/FastAPI-6e62e5?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/REST%20APIs-6e62e5?style=for-the-badge" alt="REST APIs">
+  <img src="https://img.shields.io/badge/FastAPI%20%26%20REST%20APIs-6e62e5?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI & REST APIs">
   <img src="https://img.shields.io/badge/Pydantic-6e62e5?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic">
 </p>
 
@@ -228,8 +227,9 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 | **Technical Committee Lead** | Waed Students Community, King Abdulaziz University |
 | **Member, Tech Department** | IEEE SB KAU, 2027 term |
 | **Vice Leader, Tech Department** | Programming Club KAU, 2027 term |
-| **Tech Member** | Microsoft Learn Student Ambassadors Club (LSAC), KAU |
+| **Tech Department Member** | Microsoft Learn Student Ambassadors Club (LSAC), KAU |
 | **CM Experience Member** | Google Developer Groups on Campus, KAU |
+| **Project Manager, Library Initiative** | CM Experience, Google Developer Groups on Campus, KAU |
 | **Organizer and Event Coordinator** | English Language Olympiad (ELO), KAU |
 | **Project Coordinator, Talks X** | Engineering Day 2027 |
 | **Layout & Design Specialist** | Engineering Day 2027 Planning Department |
