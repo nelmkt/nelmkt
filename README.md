@@ -122,6 +122,8 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 
 **Competitions and events:** NSMO Mathematical Saudi Olympiad 2022, UNCCD COP16 (United Nations Convention to Combat Desertification) 2024, Consulting Championship 2025 (Aramco), Hackathon Al Hareeq (Ministry of Environment, Water and Agriculture, 2025), The 2nd Scientific Forum (King Abdulaziz University, 2025), IECE 2026, the International Engineering Conference and Exhibition (Saudi Council of Engineers), 2nd Conference on Sustainability and Quality of Life 2026 (King Abdulaziz University, research paper), Miyahthon 2027 (Saudi Water Authority)
 
+**Current submissions (October 2026):** Global Sustainability Challenge 2026–27 (Wahaj), KAUST Academy AI Specialization 2026/27 (application under review), IOCE 2027 (Wahaj abstract), i3EC’26 (Aykah), WAW 2026 (Wahaj manuscript), Wilkes Climate Innovation Prize 2027 (Wahaj), IGIIDeation 2027 (Aykah abstract and paper), Saudi HPC/AI 2026 at KAUST (Wahaj e-poster)
+
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
 ## Education
@@ -226,6 +228,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 | **Technical Committee Lead** | Waed Students Community, King Abdulaziz University |
 | **Member, Tech Department** | IEEE SB KAU, 2027 term |
 | **Vice Leader, Tech Department** | Programming Club KAU, 2027 term |
+| **Tech Member** | Microsoft Learn Student Ambassadors Club (LSAC), KAU |
 | **CM Experience Member** | Google Developer Groups on Campus, KAU |
 | **Organizer and Event Coordinator** | English Language Olympiad (ELO), KAU |
 | **Project Coordinator, Talks X** | Engineering Day 2027 |
