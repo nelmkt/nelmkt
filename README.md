@@ -160,6 +160,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 <p>
   <img src="https://img.shields.io/badge/XGBoost-f2c12e?style=for-the-badge" alt="XGBoost">
   <img src="https://img.shields.io/badge/scikit--learn-f2c12e?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/PyTorch-f2c12e?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/pandas-f2c12e?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
   <img src="https://img.shields.io/badge/NumPy-f2c12e?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Spatial%20cross--validation-f2c12e?style=for-the-badge" alt="Spatial cross-validation">
@@ -204,6 +205,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
   <img src="https://img.shields.io/badge/Docker-ff4f9a?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/GitHub%20Actions-ff4f9a?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/pytest-ff4f9a?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest">
+  <img src="https://img.shields.io/badge/MATLAB-ff4f9a?style=for-the-badge" alt="MATLAB">
 </p>
 
 **Hardware**
@@ -225,11 +227,11 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 | Role | Where |
 | --- | --- |
 | **Technical Committee Lead** | Waed Students Community, King Abdulaziz University |
+| **Webmaster** | IEEE KAU SB (Female) Research Community, 2027 term |
 | **Member, Tech Department** | IEEE SB KAU, 2027 term |
 | **Vice Leader, Tech Department** | Programming Club KAU, 2027 term |
-| **Tech Department Member** | Microsoft Learn Student Ambassadors Club (LSAC), KAU |
+| **Vice Leader, Tech Department** | Microsoft Learn Student Ambassadors Club (LSAC), KAU |
 | **CM Experience Member** | Google Developer Groups on Campus, KAU |
-| **Project Manager, Library Initiative** | CM Experience, Google Developer Groups on Campus, KAU |
 | **Organizer and Event Coordinator** | English Language Olympiad (ELO), KAU |
 | **Project Coordinator, Talks X** | Engineering Day 2027 |
 | **Layout & Design Specialist** | Engineering Day 2027 Planning Department |
