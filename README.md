@@ -111,15 +111,15 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 | Year | Recognition | Awarded by |
 | :---: | --- | --- |
 | — | **Patent** for Aykah, a solar-powered IoT smart waste management system | Inventor: Nelly Almaktoum |
-| 2026 | **Poster finalist**, student poster session at the Saudi HPC/AI Conference 2026, with “When an Accurate Urban Heat Model Cannot Forecast Greening Effects in Jeddah” (Wahaj) | KAUST |
+| 2026 | [**Poster finalist**](https://nelmkt.com/proof/kaust-hpcai-finalist.png), student poster session at the Saudi HPC/AI Conference 2026, with “When an Accurate Urban Heat Model Cannot Forecast Greening Effects in Jeddah” (Wahaj) | KAUST |
 | 2026 | [Feature story](https://saudigazette.com.sa/article/664214/saudi-arabia/how-curiosity-led-a-saudi-teenager-to-develop-a-un-award-winning-smart-waste-management-solution) on my journey from curiosity to the award-winning Aykah smart bin | Saudi Gazette |
-| 2026 | Certificate of Appreciation for distinguished participation in local and international competitions | King Abdulaziz University |
-| 2026 | Academic Excellence Award 2025–2026, for a GPA of 4.5 or higher across two consecutive semesters | King Abdulaziz University |
-| 2025 | IEEE Ideation Competition, 22nd International Learning and Technology Conference: presenter and team lead of five, with a top-ranked paper at the Human Machine Fusion exhibition | IEEE |
-| 2024 | **Young Researchers Award, Modern Technologies.** Selected by an international panel and received at 16, making me the youngest UN-certified Saudi researcher (youngest of 209 researchers and professors from 36 countries) | United Nations Convention to Combat Desertification (UNCCD COP16) |
-| 2024 | National recognition for Aykah among the selected Young Researchers at UNCCD COP16 | National Center for Meteorology (NCM) |
+| 2026 | [Certificate of Appreciation](https://nelmkt.com/proof/kau-appreciation.jpg) for distinguished participation in local and international competitions | King Abdulaziz University |
+| 2026 | [Academic Excellence Award 2025–2026](https://nelmkt.com/proof/kau-academic-excellence.jpg), for a GPA of 4.5 or higher across two consecutive semesters | King Abdulaziz University |
+| 2025 | [IEEE Ideation Competition, **3rd place**](https://nelmkt.com/proof/ieee-ideation-effat.jpg) for best technological innovation at the 22nd International Learning and Technology Conference, as presenter and team lead of five | IEEE |
+| 2024 | [**Young Researchers Award, Modern Technologies.**](https://nelmkt.com/proof/unccd-cop16-young-researchers.jpg) Selected by an international panel and received at 16, making me the youngest UN-certified Saudi researcher (youngest of 209 researchers and professors from 36 countries) | United Nations Convention to Combat Desertification (UNCCD COP16) |
+| 2024 | [National recognition](https://x.com/NCMKSA/status/1867220237566849266) for Aykah among the selected Young Researchers at UNCCD COP16 | National Center for Meteorology (NCM) |
 | 2024 | National recognition for Aykah | Ministry of Environment, Water and Agriculture (MEWA) |
-| 2022 | National Mathematics Olympiad, final stage, representing the Western Region | Ministry of Education, Saudi Arabia |
+| 2022 | [National Mathematics Olympiad, final stage](https://nelmkt.com/proof/math-olympiad-2022.jpg), representing the Western Region | Ministry of Education, Saudi Arabia |
 
 **Competitions and events:** NSMO Mathematical Saudi Olympiad 2022, UNCCD COP16 (United Nations Convention to Combat Desertification) 2024, Consulting Championship 2025 (Aramco), Hackathon Al Hareeq (Ministry of Environment, Water and Agriculture, 2025), The 2nd Scientific Forum (King Abdulaziz University, 2025), IECE 2026, the International Engineering Conference and Exhibition (Saudi Council of Engineers), 2nd Conference on Sustainability and Quality of Life 2026 (King Abdulaziz University, research paper), Miyahthon 2027 (Saudi Water Authority)
 
