@@ -5,7 +5,7 @@
 <p align="center">
   <b>Undergraduate researcher merging technology with complex problems to contribute in real-world impact.</b><br>
   Computer Science at King Abdulaziz University, FCIT - Waed Distinctive Excellence track, Jeddah, Saudi Arabia<br>
-  Youngest UN-certified Saudi researcher - 7 national and international recognitions and 3 national and international awards
+  Youngest UN-certified Saudi researcher - 8 national and international recognitions and 4 national and international awards
 </p>
 
 <p align="center">
@@ -111,6 +111,8 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 | Year | Recognition | Awarded by |
 | :---: | --- | --- |
 | — | **Patent** for Aykah, a solar-powered IoT smart waste management system | Inventor: Nelly Almaktoum |
+| 2026 | **Bronze medal**, International Invention, Innovation & Entrepreneurship Idea Competition 2026 (i3EC’26), representing King Abdulaziz University with Aykah | Kolej Poly-Tech MARA (KPTM), Malaysia |
+| 2026 | International recognition from the i3EC’26 organizer for Aykah’s bronze-medal entry | Kolej Poly-Tech MARA (KPTM), Malaysia |
 | 2026 | [**Poster finalist**](https://nelmkt.com/proof/kaust-hpcai-finalist.png), student poster session at the Saudi HPC/AI Conference 2026, with “When an Accurate Urban Heat Model Cannot Forecast Greening Effects in Jeddah” (Wahaj) | KAUST |
 | 2026 | [Feature story](https://saudigazette.com.sa/article/664214/saudi-arabia/how-curiosity-led-a-saudi-teenager-to-develop-a-un-award-winning-smart-waste-management-solution) on my journey from curiosity to the award-winning Aykah smart bin | Saudi Gazette |
 | 2026 | [Certificate of Appreciation](https://nelmkt.com/proof/kau-appreciation.jpg) for distinguished participation in local and international competitions | King Abdulaziz University |
@@ -123,7 +125,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 
 **Competitions and events:** NSMO Mathematical Saudi Olympiad 2022, UNCCD COP16 (United Nations Convention to Combat Desertification) 2024, Consulting Championship 2025 (Aramco), Hackathon Al Hareeq (Ministry of Environment, Water and Agriculture, 2025), The 2nd Scientific Forum (King Abdulaziz University, 2025), IECE 2026, the International Engineering Conference and Exhibition (Saudi Council of Engineers), 2nd Conference on Sustainability and Quality of Life 2026 (King Abdulaziz University, research paper), Miyahthon 2027 (Saudi Water Authority)
 
-**Current submissions (October 2026):** Seoul International Invention Fair (SIIF) 2026 (nominated by King Abdulaziz University to exhibit Wahaj), Global Sustainability Challenge 2026–27 (Stanford Doerr School of Sustainability and partner universities), KAUST Academy Artificial Intelligence Specialization 2026/27 (under review), 2nd International Online Conference on Environments (IOCE 2027, MDPI), i3EC’26, WAW 2026, Wilkes Climate Innovation Prize 2027 (University of Utah), International Grand Invention, Innovation and Design Expo (IGIIDeation 2027, IIUM)
+**Current submissions (October 2026):** Seoul International Invention Fair (SIIF) 2026 (nominated by King Abdulaziz University to exhibit Wahaj), Global Sustainability Challenge 2026–27 (Stanford Doerr School of Sustainability and partner universities), KAUST Academy Artificial Intelligence Specialization 2026/27 (under review), 2nd International Online Conference on Environments (IOCE 2027, MDPI), WAW 2026, Wilkes Climate Innovation Prize 2027 (University of Utah), International Grand Invention, Innovation and Design Expo (IGIIDeation 2027, IIUM)
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
