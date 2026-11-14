@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://nelmkt.com"><img src="assets/banner.png" width="100%" alt="Nelly Almaktoum - نيللي المكتوم: researcher, innovator, ML engineer and green tech"></a>
+  <a href="https://nelmkt.com"><img src="assets/banner.png" width="100%" alt="Nelly Almaktoum - نيللي المكتوم: ML researcher and inventor"></a>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://nelmkt.com"><img src="https://img.shields.io/badge/Portfolio-nelmkt.com-ff4f9a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2a0a20" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/nelmkt/"><img src="https://img.shields.io/badge/LinkedIn-nelmkt-ff8a3d?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+PHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Jy8+PC9zdmc+&labelColor=2a0a20" alt="LinkedIn"></a>
   <a href="https://x.com/nelmkt"><img src="https://img.shields.io/badge/X-@nelmkt-f2c12e?style=for-the-badge&logo=x&logoColor=white&labelColor=2a0a20" alt="X"></a>
-  <a href="mailto:scifinel@gmail.com"><img src="https://img.shields.io/badge/Email-scifinel%40gmail.com-2fbf71?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2a0a20" alt="Email"></a>
+  <a href="mailto:nelly@nelmkt.com"><img src="https://img.shields.io/badge/Email-nelly%40nelmkt.com-2fbf71?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2a0a20" alt="Email"></a>
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 | Year | Recognition | Awarded by |
 | :---: | --- | --- |
 | — | **Patent** for Aykah, a solar-powered IoT smart waste management system | Inventor: Nelly Almaktoum |
-| 2026 | **Bronze medal**, International Invention, Innovation & Entrepreneurship Idea Competition 2026 (i3EC’26), representing King Abdulaziz University with Aykah | Kolej Poly-Tech MARA (KPTM), Malaysia |
+| 2026 | [**Bronze medal**](https://nelmkt.com/proof/i3ec-26-bronze-results.jpg), International Invention, Innovation & Entrepreneurship Idea Competition 2026 (i3EC’26), representing King Abdulaziz University with Aykah | Kolej Poly-Tech MARA (KPTM), Malaysia |
 | 2026 | International recognition for Aykah’s bronze-medal entry at i3EC’26 | Malaysia Innovation, Invention & Creativity Association (MIICA) |
 | 2026 | [**Poster finalist**](https://nelmkt.com/proof/kaust-hpcai-finalist.png), student poster session at the Saudi HPC/AI Conference 2026, with “When an Accurate Urban Heat Model Cannot Forecast Greening Effects in Jeddah” (Wahaj) | KAUST |
 | 2026 | [Feature story](https://saudigazette.com.sa/article/664214/saudi-arabia/how-curiosity-led-a-saudi-teenager-to-develop-a-un-award-winning-smart-waste-management-solution) on my journey from curiosity to the award-winning Aykah smart bin | Saudi Gazette |
@@ -246,7 +246,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 
 ## Get in touch
 
-I'm open to research collaboration. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/nelmkt/) or [email](mailto:scifinel@gmail.com), and you can also find me on [X](https://x.com/nelmkt). Or press start at [nelmkt.com](https://nelmkt.com).
+I'm open to research collaboration. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/nelmkt/) or [email](mailto:nelly@nelmkt.com), and you can also find me on [X](https://x.com/nelmkt). Or press start at [nelmkt.com](https://nelmkt.com).
 
 I speak Arabic and English.
 
