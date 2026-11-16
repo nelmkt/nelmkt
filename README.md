@@ -111,7 +111,7 @@ A patented, cost-effective, solar-powered IoT smart bin, taken from scientific r
 | Year | Recognition | Awarded by |
 | :---: | --- | --- |
 | — | **Patent** for Aykah, a solar-powered IoT smart waste management system | Inventor: Nelly Almaktoum |
-| 2026 | [**Bronze medal**](https://nelmkt.com/proof/i3ec-26-bronze-results.jpg), International Invention, Innovation & Entrepreneurship Idea Competition 2026 (i3EC’26), representing King Abdulaziz University with Aykah | Kolej Poly-Tech MARA (KPTM), Malaysia |
+| 2026 | [**Bronze medal**](https://nelmkt.com/proof/i3ec-26-bronze-certificate.jpg), International Invention, Innovation & Entrepreneurship Idea Competition 2026 (i3EC’26), representing King Abdulaziz University with Aykah | Kolej Poly-Tech MARA (KPTM), Malaysia |
 | 2026 | International recognition for Aykah’s bronze-medal entry at i3EC’26 | Malaysia Innovation, Invention & Creativity Association (MIICA) |
 | 2026 | [**Poster finalist**](https://nelmkt.com/proof/kaust-hpcai-finalist.png), student poster session at the Saudi HPC/AI Conference 2026, with “When an Accurate Urban Heat Model Cannot Forecast Greening Effects in Jeddah” (Wahaj) | KAUST |
 | 2026 | [Feature story](https://saudigazette.com.sa/article/664214/saudi-arabia/how-curiosity-led-a-saudi-teenager-to-develop-a-un-award-winning-smart-waste-management-solution) on my journey from curiosity to the award-winning Aykah smart bin | Saudi Gazette |
